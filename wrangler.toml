@@ -3,7 +3,7 @@
 # Deployed by Cloudflare's GitHub connection (Workers Builds) on every push to main. The name must match the
 # Worker in the Cloudflare dashboard.
 
-name = "carstamp"
+name = "carstamp-landing"
 compatibility_date = "2025-01-01"
 main = "src/index.js"
 
