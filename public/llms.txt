@@ -1,0 +1,52 @@
+# CarStamp
+
+> CarStamp is an Apple-native app for tracking a car's expenses, fuel and charging, maintenance and renewals, for iPhone, iPad, Mac and Apple Vision Pro. It is free for one car, with an optional CarStamp Pro (subscription or one-time lifetime purchase). No ads, no account, and no data collected.
+
+Key facts:
+
+- Name: CarStamp (always one word, capital C and S).
+- Developer: Emil Georgiev, an individual developer.
+- Platforms: iPhone (iOS), iPad (iPadOS), Mac (macOS) and Apple Vision Pro (visionOS).
+- Languages: English and Bulgarian.
+- Vehicles: cars, and motorcycles and vans too.
+- Not available: there is no Android, Windows or web version.
+- Units: kilometers or miles, liters, US or imperial gallons, kWh; any currency.
+- Works in any country: renewal suggestions (insurance, inspection, registration, road tax, vignette) for 30 countries, including the U.S., the U.K., Canada and Australia, and a general set elsewhere.
+- Availability: not yet on the App Store (launching soon, worldwide).
+- Price: free for one active car, for good. CarStamp Pro is optional, by monthly or yearly subscription or a one-time lifetime purchase; the yearly plan has a 14-day free trial for new subscribers; prices vary by country and are shown in the App Store.
+- Privacy: no ads, no account, no tracking, no data collected by the developer. Data stays on the person's devices; with Pro it syncs through the person's own iCloud.
+
+## Free, for good
+
+- One active car (sold cars do not count), with unlimited records: fuel and charging, services with parts and labor, expenses, mileage.
+- Recurring costs (insurance, a lease, parking) added on their day; several fuels per car, for example gasoline and LPG (gasoline, diesel, LPG, CNG, hydrogen, electric, plug-in hybrid), and any currency.
+- Maintenance plans, renewals (liability insurance, comprehensive insurance such as Bulgarian Kasko, MOT or technical inspection, vignette, road tax), reminders and alerts. In Bulgarian: Гражданска отговорност, Каско, ГТП, винетка, данък МПС.
+- Documents: any number, each with name, type, expiry date and reminders. Pages (photos or scans) for one document, up to 2 pages.
+- Logging from quick actions on the app icon (and the Mac Dock); scanning the odometer with the camera on iPhone and iPad; import from Fuelio, Drivvo, Fuelly, aCar, Road Trip and CSV.
+- Overview, history with search, basic Insights (spending for this year and last, cost per km, average fuel use).
+- Backup and restore (the backup holds everything), CSV export of every record (with invoices, part brands, where each part was bought and work done by the owner), and Hand Over to New Owner (the car's history as a file).
+- Receipt reading allowance: 10 reads.
+
+## CarStamp Pro adds
+
+- More than one active car, and new records on a sold car.
+- iCloud sync between iPhone, iPad, Mac and Vision Pro.
+- Detailed Insights (fuel detail, driving pace, ownership and depreciation, forecast, compare vehicles, the change against an earlier period).
+- Unlimited receipt reading; photos and files on records; pages (photos or scans) for every document (free: the photo of a scan during the first 10 free reads and one document with up to 2 pages).
+- Service history PDF to share, save or print, with the owner's name, all time or a chosen period, and the included records' receipts and invoices added at the end (Pro only; nothing of it can be read without Pro).
+- Siri, Shortcuts and Control Center; renewals paid in parts with a reminder for each payment; Insights for every period (earlier years, everything, custom dates).
+- Home Screen and Lock Screen widgets, part history, workshop history, tire sets, calendar sync, alternate app icons.
+- If Pro ends, nothing is deleted: every car, record and alert keeps working and stays exportable.
+
+## Pages
+
+- [CarStamp home](https://carstamp.app/): what the app does, free and Pro, platforms, FAQ
+- [Privacy Policy](https://carstamp.app/privacy/): no data collected, no account, no ads or tracking
+- [Support](https://carstamp.app/support/): help, contact and common questions
+- [CarStamp на български](https://carstamp.app/bg/): the home page in Bulgarian
+- [Поверителност](https://carstamp.app/bg/privacy/): the privacy policy in Bulgarian
+- [Помощ](https://carstamp.app/bg/support/): support (help) in Bulgarian
+
+## Optional
+
+- [Full reference](https://carstamp.app/llms-full.txt): every free feature, allowance, Pro feature and what happens when Pro ends

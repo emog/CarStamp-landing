@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://carstamp.app/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/"/>
+  </url>
+  <url>
+    <loc>https://carstamp.app/bg/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/"/>
+  </url>
+  <url>
+    <loc>https://carstamp.app/privacy/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/privacy/"/>
+  </url>
+  <url>
+    <loc>https://carstamp.app/bg/privacy/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/privacy/"/>
+  </url>
+  <url>
+    <loc>https://carstamp.app/support/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/support/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/support/"/>
+  </url>
+  <url>
+    <loc>https://carstamp.app/bg/support/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/support/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/support/"/>
+  </url>
+</urlset>

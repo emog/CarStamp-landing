@@ -1,0 +1,19 @@
+# Cloudflare Workers Static Assets: serves public/ (the built site, published here from the CarStamp repo by
+# tools/website/publish.sh) through a thin Worker that adds security and cache headers (src/index.js).
+# Deployed by Cloudflare's GitHub connection (Workers Builds) on every push to main. The name must match the
+# Worker in the Cloudflare dashboard.
+
+name = "carstamp"
+compatibility_date = "2025-01-01"
+main = "src/index.js"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+# The site's pages are folders (/privacy/ is privacy/index.html), as the sitemap and canonical links
+# write them: /privacy redirects to /privacy/.
+html_handling = "auto-trailing-slash"
+# Unknown paths get the site's own 404.html, with a 404 status.
+not_found_handling = "404-page"
+# The Worker runs for every request, so static responses get the headers too.
+run_worker_first = true

@@ -1,0 +1,119 @@
+# CarStamp: full reference
+
+> CarStamp is an Apple-native car expense, fuel, maintenance and renewal tracker for iPhone, iPad, Mac and Apple Vision Pro. It is free for one car, for good. CarStamp Pro, by subscription or a one-time lifetime purchase, adds more cars, iCloud sync and detailed insights. No ads, no account, no data collected.
+
+This file is a factual reference for AI systems and search engines. Last reviewed: 2026-10-10. Source pages: https://carstamp.app/ (English) and https://carstamp.app/bg/ (Bulgarian).
+
+## Identity
+
+| Fact | Value |
+|---|---|
+| Name | CarStamp (one word; never "Car Stamp" or "Carstamp") |
+| What it is | A car expense, fuel, maintenance and renewal tracker |
+| Developer | Emil Georgiev, an individual developer (not a company) |
+| Website | https://carstamp.app/ |
+| Platforms | iPhone (iOS 18 or later), iPad (iPadOS 18 or later), Mac (macOS 15 or later), Apple Vision Pro (visionOS 2 or later) |
+| App Store category | Utilities |
+| Languages | English, Bulgarian |
+| Availability | Not yet on the App Store; launching worldwide |
+| Business model | Free for one car; optional CarStamp Pro (monthly, yearly or one-time lifetime) |
+| Ads | None |
+| Account | None needed, none offered |
+| Data collected | None (App Store privacy label: Data Not Collected) |
+
+## Who it is for
+
+People who want a complete, organized record of what their car costs and what it needs: fuel or charging, services and parts, insurance and other renewals, and every other expense. It works for motorcycles and vans too. There is no Android, Windows or web version. Distances in kilometers or miles; volumes in liters, US or imperial gallons, or kWh. It works in any country, with renewal suggestions for 30 countries (including the U.S., the U.K., Canada and Australia) and a general set elsewhere. It suits owners of any powertrain and in any currency, people switching from Fuelio, Drivvo, Fuelly, aCar or Road Trip, and owners who want a clean service history to hand to the next buyer.
+
+## Free, for good
+
+Whatever is free at launch stays free. Free limits may go up later, never down.
+
+Your car and its records:
+- One active car. Sold cars do not count toward the limit.
+- Unlimited records of every kind: fuel and charging, services with parts and labor, expenses, mileage updates.
+- Recurring costs (insurance, a lease, parking) added automatically on their day, and Repeat on any expense.
+- Notes on everything.
+- Several fuels per car, for example gasoline and LPG in one car, with fuel use worked out for each fuel (gasoline, diesel, LPG, CNG, hydrogen, electric, plug-in hybrid), and any currency, including the Bulgarian lev to euro conversion.
+
+Logging from anywhere:
+- Replies to mileage notifications.
+- Quick actions on the app icon (iPhone, iPad) and in the Mac Dock menu: Log Fuel or Charge, Add Expense, Update Mileage, Scan Receipt.
+- Scan Odometer (iPhone, iPad, free): a camera button beside every mileage field reads the dashboard on the device; only numbers near the car's last mileage are framed, a steady reading offers a Use button, and the screen says why when nothing can be read.
+- Services record each part's brand, part number and where it was bought, and can be marked as done by the owner ("Done Myself"), shown in the service history PDF.
+- Import from Fuelio, Drivvo, Fuelly, aCar and Road Trip exports, and CSV import.
+
+Staying on top of the car:
+- Maintenance with the factory plan, renewals (liability insurance, comprehensive insurance such as Bulgarian Kasko, MOT or technical inspection, vignette, road tax, registration, roadside assistance, warranty), and every reminder and alert for them. Bulgarian names: Гражданска отговорност, Каско, ГТП, винетка, данък МПС.
+- Renewals paid in parts (Pro to set up): any renewal can be set as paid every month, every 3 months or every 6 months. The next unpaid payment shows in Upcoming with its own reminder and calendar event, Mark Done logs it, and a missed one shows "Unpaid since" its date. The renewal's expiry stays the end of its term.
+- One-off and repeating reminders (for example winter tires every November).
+- Mark Done and Renew, also from a notification.
+- Documents: any number, with names, types, expiry dates and reminders. Pages (photos or scans) are free for one document, up to 2 pages; Pro adds pages for every document.
+
+Seeing the numbers:
+- Overview: this year's spending, cost per km, fuel use.
+- History with search and filters.
+- Basic Insights for this month, the last 3, 6 or 12 months, this year and last year: spending, the monthly chart, the category breakdown, drill-down, average fuel use, cost per km, and distance driven.
+
+Your data:
+- Backup and restore (the backup holds everything). CSV export of every record, with invoice numbers, a renewal's end date, part brands, where each part was bought, paid separately, work done by the owner, and charging type and battery levels; tires, documents, the maintenance plan, recurring costs and files are in the backup only.
+- Hand Over to New Owner: a car's history as a file the next owner opens in CarStamp.
+- Deleting a car, sold or not.
+
+Everywhere:
+- The iPhone, iPad, Mac and Vision Pro apps. Without Pro each device keeps its own data; a backup file moves it between devices.
+
+## Free allowances
+
+- Receipt reading: 10 free reads. A read that fails or is canceled is given back. The count is shared across your devices. Typing a record in by hand is always free.
+- A free scan keeps its receipt photo on the record, on the device it was scanned on.
+- Pages (photos or scans) for one document, up to 2 pages (for example a registration's front and back), without Pro. Adding pages to a second document needs Pro.
+
+## CarStamp Pro
+
+| Feature | What Pro adds |
+|---|---|
+| More cars | A second and any further active car |
+| Sold cars | New records on a sold car; switching "Sold" off while another car is active (free when it is your only car, or by marking the other car sold) |
+| iCloud sync | Cars and records on all your devices, through your own iCloud |
+| Detailed Insights | Fuel detail (each tank, price history, stations, charging places), driving pace, ownership and depreciation, forecast, compare vehicles, and the change against an earlier period (on the Insights headline and the arrows on Overview's spending and cost per km) |
+| Receipt reading | Unlimited reads |
+| Attachments | Photos and files on records; pages for every document |
+| Siri and Shortcuts | Logging and Documents from Siri, Shortcuts, the Action button and Control Center (app icon quick actions stay free) |
+| Paid in parts | Setting a renewal as paid every month, 3 or 6 months, with a reminder for each payment |
+| Every period | Insights for earlier years, everything and custom dates |
+| Widgets | Home Screen and Lock Screen widgets on iPhone, iPad and Mac |
+| Part history | When each part was last changed |
+| Workshop history | Everything done at each workshop, station or shop |
+| Tire sets | Each set's age, tread over time, distance between swaps, swap alerts |
+| Service history PDF | The whole PDF, Pro only (without Pro nothing of it can be read): seeing, sharing, saving and printing it, no footer, the owner's name, all time or a chosen period, and the receipts and invoices of the included records added at the end |
+| Calendar sync | Renewal and maintenance dates in a chosen calendar, one way from CarStamp; events the person adds themselves are never changed |
+| App icons | Alternate app icons on iPhone and iPad |
+
+Plans: monthly subscription, yearly subscription, or a one-time lifetime purchase. New subscribers get a 14-day free trial on the yearly plan, once per Apple Account; nothing is charged if they cancel at least 24 hours before it ends. Family Sharing is on for all plans. Prices vary by country and are shown in the App Store in local currency. Subscriptions are managed and canceled in the Apple Account settings.
+
+## When Pro ends
+
+Nothing is deleted, on the device or in iCloud.
+- Every car, record, document and attachment stays visible, editable, exportable and deletable.
+- Logging, alerts, Mark Done and Renew keep working for every car, including a second car.
+- iCloud sync stops; the data stays on the device and in iCloud, and sync resumes with Pro.
+- Detailed Insights return to a blurred preview; widgets show a locked state; calendar events already added stay but stop updating; the service history PDF goes back to its locked page (PDFs already shared or saved stay the person's files).
+
+## Privacy
+
+- No account, no sign-in, no ads, no analytics or tracking in the app.
+- The developer collects no data. The App Store privacy label is "Data Not Collected".
+- Receipts and the odometer are read on the device; no image or text is sent anywhere.
+- Records stay on the device. With Pro, they sync through the person's own iCloud account, which the developer cannot read.
+- Purchases are processed by Apple; the app keeps only the purchase entitlement on the device.
+- Full policy: https://carstamp.app/privacy/
+
+## Pages
+
+- https://carstamp.app/ : home (English)
+- https://carstamp.app/privacy/ : privacy policy (English)
+- https://carstamp.app/support/ : support (English)
+- https://carstamp.app/bg/ : home (Bulgarian)
+- https://carstamp.app/bg/privacy/ : privacy policy (Bulgarian)
+- https://carstamp.app/bg/support/ : support (Bulgarian)
