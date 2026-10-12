@@ -3,6 +3,8 @@
  *   - apply security headers to every response,
  *   - apply tiered cache headers (images and fonts immutable, text files a day at the edge,
  *     pages a short browser cache with a longer edge cache),
+ *   - send http and www.carstamp.app to https://carstamp.app with a permanent redirect, so the site has
+ *     one address,
  *   - answer scanner probes and repo-internal paths with a plain 404.
  * Trailing slashes and the 404 page are handled by [assets] in wrangler.toml.
  */
@@ -14,6 +16,8 @@ const SECURITY_HEADERS = {
   'Permissions-Policy': 'camera=(), microphone=(), geolocation=(), interest-cohort=()',
   'X-Frame-Options': 'DENY',
 };
+
+const CANONICAL_HOST = 'carstamp.app';
 
 const IMG_EXT = /\.(png|jpe?g|gif|svg|webp|ico|avif)$/i;
 const FONT_EXT = /\.(woff2?|ttf|otf|eot)$/i;
@@ -47,6 +51,15 @@ function cacheControlFor(pathname) {
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
+
+    // Only the site's own hosts; a workers.dev preview address is served as it is.
+    const isWww = url.hostname === 'www.' + CANONICAL_HOST;
+    if (isWww || (url.hostname === CANONICAL_HOST && url.protocol === 'http:')) {
+      return new Response(null, {
+        status: 301,
+        headers: { ...SECURITY_HEADERS, Location: `https://${CANONICAL_HOST}${url.pathname}${url.search}` },
+      });
+    }
 
     if (isBlockedPath(url.pathname)) {
       return new Response('Not Found', {
