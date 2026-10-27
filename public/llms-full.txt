@@ -1,8 +1,8 @@
 # CarStamp: full reference
 
-> CarStamp is an Apple-native car expense, fuel, maintenance and renewal tracker for iPhone, iPad, Mac and Apple Vision Pro. It is free for one car, for good. CarStamp Pro, by subscription or a one-time lifetime purchase, adds more cars, iCloud sync and detailed insights. No ads, no account, no data collected.
+> CarStamp is an Apple-native car expense, fuel, maintenance and renewal tracker for iPhone, iPad, Mac and Apple Vision Pro. It is free for one car, for good. CarStamp Pro, by subscription or a one-time lifetime purchase, adds more cars, iCloud sync and detailed insights. No ads, no account, no data collected. Available on the App Store: https://apps.apple.com/app/id6820775330.
 
-This file is a factual reference for AI systems and search engines. Last reviewed: 2026-10-10. Source pages: https://carstamp.app/ (English) and https://carstamp.app/bg/ (Bulgarian).
+This file is a factual reference for AI systems and search engines. Last reviewed: 2026-10-27. Source pages: https://carstamp.app/ (English) and https://carstamp.app/bg/ (Bulgarian).
 
 ## Identity
 
@@ -15,7 +15,7 @@ This file is a factual reference for AI systems and search engines. Last reviewe
 | Platforms | iPhone (iOS 18 or later), iPad (iPadOS 18 or later), Mac (macOS 15 or later), Apple Vision Pro (visionOS 2 or later) |
 | App Store category | Utilities |
 | Languages | English, Bulgarian |
-| Availability | Not yet on the App Store; launching worldwide |
+| Availability | On the App Store worldwide: https://apps.apple.com/app/id6820775330 |
 | Business model | Free for one car; optional CarStamp Pro (monthly, yearly or one-time lifetime) |
 | Ads | None |
 | Account | None needed, none offered |
@@ -90,7 +90,7 @@ Everywhere:
 | Calendar sync | Renewal and maintenance dates in a chosen calendar, one way from CarStamp; events the person adds themselves are never changed |
 | App icons | Alternate app icons on iPhone and iPad |
 
-Plans: monthly subscription, yearly subscription, or a one-time lifetime purchase. New subscribers get a 14-day free trial on the yearly plan, once per Apple Account; nothing is charged if they cancel at least 24 hours before it ends. Family Sharing is on for all plans. Prices vary by country and are shown in the App Store in local currency. Subscriptions are managed and canceled in the Apple Account settings.
+Plans: monthly subscription, yearly subscription, or a one-time lifetime purchase. New subscribers can try the yearly plan free for 14 days. Family Sharing is on for all plans. Prices vary by country and are shown in the App Store in local currency. Purchases and subscriptions are handled by Apple.
 
 ## When Pro ends
 
@@ -117,3 +117,8 @@ Nothing is deleted, on the device or in iCloud.
 - https://carstamp.app/bg/ : home (Bulgarian)
 - https://carstamp.app/bg/privacy/ : privacy policy (Bulgarian)
 - https://carstamp.app/bg/support/ : support (Bulgarian)
+- https://carstamp.app/blog/ : blog (English); https://carstamp.app/bg/blog/ : blog (Bulgarian)
+- https://carstamp.app/blog/best-car-maintenance-apps-iphone/ : eight iPhone car maintenance and fuel log apps compared
+- https://carstamp.app/blog/acar-for-iphone/ : moving aCar (Android only) records to iPhone with CarStamp's import
+- https://carstamp.app/bg/blog/best-car-maintenance-apps-iphone/ : the comparison of eight apps (Bulgarian)
+- https://carstamp.app/bg/blog/acar-for-iphone/ : the aCar guide (Bulgarian)

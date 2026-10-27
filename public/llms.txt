@@ -1,6 +1,6 @@
 # CarStamp
 
-> CarStamp is an Apple-native app for tracking a car's expenses, fuel and charging, maintenance and renewals, for iPhone, iPad, Mac and Apple Vision Pro. It is free for one car, with an optional CarStamp Pro (subscription or one-time lifetime purchase). No ads, no account, and no data collected.
+> CarStamp is an Apple-native app for tracking a car's expenses, fuel and charging, maintenance and renewals, for iPhone, iPad, Mac and Apple Vision Pro. It is free for one car, with an optional CarStamp Pro (subscription or one-time lifetime purchase). No ads, no account, and no data collected. Available on the App Store: https://apps.apple.com/app/id6820775330.
 
 Key facts:
 
@@ -12,7 +12,7 @@ Key facts:
 - Not available: there is no Android, Windows or web version.
 - Units: kilometers or miles, liters, US or imperial gallons, kWh; any currency.
 - Works in any country: renewal suggestions (insurance, inspection, registration, road tax, vignette) for 30 countries, including the U.S., the U.K., Canada and Australia, and a general set elsewhere.
-- Availability: not yet on the App Store (launching soon, worldwide).
+- Availability: on the App Store worldwide: https://apps.apple.com/app/id6820775330
 - Price: free for one active car, for good. CarStamp Pro is optional, by monthly or yearly subscription or a one-time lifetime purchase; the yearly plan has a 14-day free trial for new subscribers; prices vary by country and are shown in the App Store.
 - Privacy: no ads, no account, no tracking, no data collected by the developer. Data stays on the person's devices; with Pro it syncs through the person's own iCloud.
 
@@ -46,6 +46,12 @@ Key facts:
 - [CarStamp на български](https://carstamp.app/bg/): the home page in Bulgarian
 - [Поверителност](https://carstamp.app/bg/privacy/): the privacy policy in Bulgarian
 - [Помощ](https://carstamp.app/bg/support/): support (help) in Bulgarian
+- [Car maintenance and fuel log apps for iPhone compared](https://carstamp.app/blog/best-car-maintenance-apps-iphone/): eight apps compared on their free versions, iPad and Mac apps, account and App Store privacy labels
+- [Приложения за поддръжка и разходи за автомобила](https://carstamp.app/bg/blog/best-car-maintenance-apps-iphone/): the comparison in Bulgarian
+- [aCar for iPhone](https://carstamp.app/blog/acar-for-iphone/): aCar is Android only; how to move aCar's CSV export into CarStamp on iPhone
+- [aCar за iPhone](https://carstamp.app/bg/blog/acar-for-iphone/): the aCar guide in Bulgarian
+- [Blog](https://carstamp.app/blog/): guides and app comparisons
+- [Блог](https://carstamp.app/bg/blog/): the blog in Bulgarian
 
 ## Optional
 
