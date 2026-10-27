@@ -302,6 +302,9 @@ a:hover{text-decoration-thickness:2px}
 .table-scroll tbody tr:last-child>*{border-bottom:0}
 /* The first column (what each row is about) stays in view while a wide table scrolls sideways on a phone. */
 .table-scroll tr>:first-child{position:sticky;left:0;z-index:1;background:var(--card);box-shadow:1px 0 0 var(--line)}
+.table-fit table{min-width:0}
+.table-fit td{overflow-wrap:anywhere}
+.table-fit tr>:first-child{position:static;box-shadow:none;width:34%}
 .doc-date{font-size:15px!important}
 
 /* 404 */
