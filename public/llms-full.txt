@@ -61,7 +61,7 @@ Your data:
 - Deleting a car, sold or not.
 
 Everywhere:
-- The iPhone, iPad, Mac and Vision Pro apps. Without Pro each device keeps its own data; a backup file moves it between devices.
+- The iPhone, iPad, Mac and Vision Pro apps. Without Pro each device keeps its own data.
 
 ## Free allowances
 
