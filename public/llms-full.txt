@@ -111,6 +111,7 @@ Nothing is deleted, on the device or in iCloud.
 
 ## Pages
 
+- https://carstamp.app/press/ : press kit (English): facts, descriptions, prices, real screenshots (iPhone, iPad, Mac, Apple Vision Pro) and the app icon
 - https://carstamp.app/ : home (English)
 - https://carstamp.app/privacy/ : privacy policy (English)
 - https://carstamp.app/support/ : support (English)

@@ -51,7 +51,21 @@ Key facts:
 - [aCar for iPhone](https://carstamp.app/blog/acar-for-iphone/): aCar is Android only; how to move aCar's CSV export into CarStamp on iPhone
 - [aCar за iPhone](https://carstamp.app/bg/blog/acar-for-iphone/): the aCar guide in Bulgarian
 - [Blog](https://carstamp.app/blog/): guides and app comparisons
+- [Press kit](https://carstamp.app/press/): facts, descriptions, prices, real screenshots and the app icon
 - [Блог](https://carstamp.app/bg/blog/): the blog in Bulgarian
+
+## Screenshots
+
+Real captures of the app (not mock-ups), free to use when writing about CarStamp:
+
+- [iPhone, Overview, light](https://carstamp.app/press/files/carstamp-iphone-overview-en-light.png)
+- [iPhone, Overview, dark](https://carstamp.app/press/files/carstamp-iphone-overview-en-dark.png)
+- [iPhone, a service record](https://carstamp.app/press/files/carstamp-iphone-service-en-light.png): a service with its parts and labor
+- [iPhone, Insights](https://carstamp.app/press/files/carstamp-iphone-insights-en-light.png)
+- [iPad, Overview in landscape](https://carstamp.app/press/files/carstamp-ipad-overview-en-light.png)
+- [Mac, Overview, light](https://carstamp.app/press/files/carstamp-mac-overview-en-light.png) and [dark](https://carstamp.app/press/files/carstamp-mac-overview-en-dark.png)
+- [Apple Vision Pro, Overview](https://carstamp.app/press/files/carstamp-vision-overview-en.png)
+- [App icon, 1024 px](https://carstamp.app/press/files/carstamp-icon-1024.png)
 
 ## Optional
 

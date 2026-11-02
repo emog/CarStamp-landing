@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://carstamp.app/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/"/>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-overview-en-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-overview-en-dark.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-service-en-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-insights-en-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-ipad-overview-en-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-mac-overview-en-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-mac-overview-en-dark.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-vision-overview-en.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://carstamp.app/bg/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/"/>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-overview-bg-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-overview-bg-dark.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-service-bg-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-insights-bg-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-ipad-overview-bg-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-mac-overview-bg-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-mac-overview-bg-dark.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-vision-overview-bg.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://carstamp.app/privacy/</loc>
@@ -59,17 +76,33 @@
   </url>
   <url>
     <loc>https://carstamp.app/press/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/press/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/press/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/press/"/>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-overview-en-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-overview-en-dark.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-service-en-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-insights-en-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-ipad-overview-en-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-mac-overview-en-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-mac-overview-en-dark.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-vision-overview-en.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://carstamp.app/bg/press/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/press/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/press/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/press/"/>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-overview-bg-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-overview-bg-dark.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-service-bg-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-iphone-insights-bg-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-ipad-overview-bg-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-mac-overview-bg-light.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-mac-overview-bg-dark.png</image:loc></image:image>
+    <image:image><image:loc>https://carstamp.app/press/files/carstamp-vision-overview-bg.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://carstamp.app/blog/acar-for-iphone/</loc>
