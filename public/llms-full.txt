@@ -123,3 +123,5 @@ Nothing is deleted, on the device or in iCloud.
 - https://carstamp.app/blog/acar-for-iphone/ : moving aCar (Android only) records to iPhone with CarStamp's import
 - https://carstamp.app/bg/blog/best-car-maintenance-apps-iphone/ : the comparison of eight apps (Bulgarian)
 - https://carstamp.app/bg/blog/acar-for-iphone/ : the aCar guide (Bulgarian)
+- https://carstamp.app/blog/switch-car-log-app/ : switching to CarStamp from Fuelio, Drivvo, Fuelly, aCar, Road Trip or any spreadsheet (CSV), app by app
+- https://carstamp.app/bg/blog/switch-car-log-app/ : the switching guide (Bulgarian)

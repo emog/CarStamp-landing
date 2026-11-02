@@ -50,6 +50,8 @@ Key facts:
 - [Приложения за поддръжка и разходи за автомобила](https://carstamp.app/bg/blog/best-car-maintenance-apps-iphone/): the comparison in Bulgarian
 - [aCar for iPhone](https://carstamp.app/blog/acar-for-iphone/): aCar is Android only; how to move aCar's CSV export into CarStamp on iPhone
 - [aCar за iPhone](https://carstamp.app/bg/blog/acar-for-iphone/): the aCar guide in Bulgarian
+- [Switching car log apps](https://carstamp.app/blog/switch-car-log-app/): how to import from Fuelio, Drivvo, Fuelly, aCar, Road Trip or any spreadsheet (CSV), app by app
+- [Смяна на приложението](https://carstamp.app/bg/blog/switch-car-log-app/): the switching guide in Bulgarian
 - [Blog](https://carstamp.app/blog/): guides and app comparisons
 - [Press kit](https://carstamp.app/press/): facts, descriptions, prices, real screenshots and the app icon
 - [Блог](https://carstamp.app/bg/blog/): the blog in Bulgarian
