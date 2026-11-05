@@ -1,8 +1,8 @@
 # CarStamp: full reference
 
-> CarStamp is an Apple-native car expense, fuel, maintenance and renewal tracker for iPhone, iPad, Mac and Apple Vision Pro. It is free for one car, for good. CarStamp Pro, by subscription or a one-time lifetime purchase, adds more cars, iCloud sync and detailed insights. No ads, no account, no data collected. Available on the App Store: https://apps.apple.com/app/id6820775330.
+> CarStamp is an Apple-native car expense, fuel, maintenance and renewal tracker for iPhone, iPad, Mac and Apple Vision Pro, coming soon to Android phones and tablets (Android 8 or later) on Google Play. It is free for one car, for good. CarStamp Pro, by subscription or a one-time lifetime purchase, adds more cars, sync (iCloud on Apple devices, Google Drive on Android) and detailed insights. No ads, no account, no data collected by the developer. On the App Store: https://apps.apple.com/app/id6820775330.
 
-This file is a factual reference for AI systems and search engines. Last reviewed: 2026-10-27. Source pages: https://carstamp.app/ (English) and https://carstamp.app/bg/ (Bulgarian).
+This file is a factual reference for AI systems and search engines. Last reviewed: 2026-11-05. Source pages: https://carstamp.app/ (English) and https://carstamp.app/bg/ (Bulgarian).
 
 ## Identity
 
@@ -12,22 +12,22 @@ This file is a factual reference for AI systems and search engines. Last reviewe
 | What it is | A car expense, fuel, maintenance and renewal tracker |
 | Developer | Emil Georgiev, an individual developer (not a company) |
 | Website | https://carstamp.app/ |
-| Platforms | iPhone (iOS 18 or later), iPad (iPadOS 18 or later), Mac (macOS 15 or later), Apple Vision Pro (visionOS 2 or later) |
+| Platforms | iPhone (iOS 18 or later), iPad (iPadOS 18 or later), Mac (macOS 15 or later), Apple Vision Pro (visionOS 2 or later); Android phones and tablets coming soon (Android 8 or later) |
 | App Store category | Utilities |
 | Languages | English, Bulgarian |
-| Availability | On the App Store worldwide: https://apps.apple.com/app/id6820775330 |
+| Availability | On the App Store worldwide: https://apps.apple.com/app/id6820775330. Coming soon to Google Play for Android. |
 | Business model | Free for one car; optional CarStamp Pro (monthly, yearly or one-time lifetime) |
 | Ads | None |
 | Account | None needed, none offered |
-| Data collected | None (App Store privacy label: Data Not Collected) |
+| Data collected | None (App Store privacy label: Data Not Collected; Google Play Data safety: No data collected) |
 
 ## Who it is for
 
-People who want a complete, organized record of what their car costs and what it needs: fuel or charging, services and parts, insurance and other renewals, and every other expense. It works for motorcycles and vans too. There is no Android, Windows or web version. Distances in kilometers or miles; volumes in liters, US or imperial gallons, or kWh. It works in any country, with renewal suggestions for 30 countries (including the U.S., the U.K., Canada and Australia) and a general set elsewhere. It suits owners of any powertrain and in any currency, people switching from Fuelio, Drivvo, Fuelly, aCar or Road Trip, and owners who want a clean service history to hand to the next buyer.
+People who want a complete, organized record of what their car costs and what it needs: fuel or charging, services and parts, insurance and other renewals, and every other expense. It works for motorcycles and vans too. It is coming soon to Android phones and tablets through Google Play, with the same Pro plans (Pro is bought separately in each store; one backup file moves data between iPhone and Android; with Pro, Android devices sync through the person's own Google Drive). There is no Windows or web version. Distances in kilometers or miles; volumes in liters, US or imperial gallons, or kWh. It works in any country, with renewal suggestions for 30 countries (including the U.S., the U.K., Canada and Australia) and a general set elsewhere. It suits owners of any powertrain and in any currency, people switching from Fuelio, Drivvo, Fuelly, aCar or Road Trip, and owners who want a clean service history to hand to the next buyer.
 
 ## Free, for good
 
-Whatever is free at launch stays free. Free limits may go up later, never down.
+Whatever is free stays free. Free limits may go up later, never down.
 
 Your car and its records:
 - One active car. Sold cars do not count toward the limit.
@@ -38,7 +38,7 @@ Your car and its records:
 
 Logging from anywhere:
 - Replies to mileage notifications.
-- Quick actions on the app icon (iPhone, iPad) and in the Mac Dock menu: Log Fuel or Charge, Add Expense, Update Mileage, Scan Receipt.
+- Quick actions on the app icon (iPhone, iPad, Android) and in the Dock menu on Mac: Log Fuel or Charge, Add Expense, Update Mileage, Scan Receipt.
 - Scan Odometer (iPhone, iPad, free): a camera button beside every mileage field reads the dashboard on the device; only numbers near the car's last mileage are framed, a steady reading offers a Use button, and the screen says why when nothing can be read.
 - Services record each part's brand, part number and where it was bought, and can be marked as done by the owner ("Done Myself"), shown in the service history PDF.
 - Import from Fuelio, Drivvo, Fuelly, aCar and Road Trip exports, and CSV import.
@@ -75,14 +75,14 @@ Everywhere:
 |---|---|
 | More cars | A second and any further active car |
 | Sold cars | New records on a sold car; switching "Sold" off while another car is active (free when it is your only car, or by marking the other car sold) |
-| iCloud sync | Cars and records on all your devices, through your own iCloud |
+| Sync | Cars and records on all your devices: through your own iCloud on Apple devices, through your own Google Drive on Android |
 | Detailed Insights | Fuel detail (each tank, price history, stations, charging places), driving pace, ownership and depreciation, forecast, compare vehicles, and the change against an earlier period (on the Insights headline and the arrows on Overview's spending and cost per km) |
 | Receipt reading | Unlimited reads |
 | Attachments | Photos and files on records; pages for every document |
-| Siri and Shortcuts | Logging and Documents from Siri, Shortcuts, the Action button and Control Center (app icon quick actions stay free) |
+| Siri and Shortcuts (Apple devices) | Logging and Documents from Siri, Shortcuts, the Action button and Control Center (app icon quick actions stay free); on Android, shortcuts and Quick Settings tiles |
 | Paid in parts | Setting a renewal as paid every month, 3 or 6 months, with a reminder for each payment |
 | Every period | Insights for earlier years, everything and custom dates |
-| Widgets | Home Screen and Lock Screen widgets on iPhone, iPad and Mac |
+| Widgets | Home Screen and Lock Screen widgets on iPhone, iPad and Mac; Home Screen widgets on Android |
 | Part history | When each part was last changed |
 | Workshop history | Everything done at each workshop, station or shop |
 | Tire sets | Each set's age, tread over time, distance between swaps, swap alerts |
@@ -90,23 +90,23 @@ Everywhere:
 | Calendar sync | Renewal and maintenance dates in a chosen calendar, one way from CarStamp; events the person adds themselves are never changed |
 | App icons | Alternate app icons on iPhone and iPad |
 
-Plans: monthly subscription, yearly subscription, or a one-time lifetime purchase. New subscribers can try the yearly plan free for 14 days. Family Sharing is on for all plans. Prices vary by country and are shown in the App Store in local currency. Purchases and subscriptions are handled by Apple.
+Plans: monthly subscription, yearly subscription, or a one-time lifetime purchase. New subscribers can try the yearly plan free for 14 days. On the App Store, Family Sharing is on for all plans. Prices vary by country and are shown in local currency in the App Store or Google Play. Purchases and subscriptions are handled by Apple on Apple devices and by Google Play on Android; Pro is bought in the store of the device and does not carry over between the two.
 
 ## When Pro ends
 
-Nothing is deleted, on the device or in iCloud.
+Nothing is deleted, on the device or in iCloud or Google Drive.
 - Every car, record, document and attachment stays visible, editable, exportable and deletable.
 - Logging, alerts, Mark Done and Renew keep working for every car, including a second car.
-- iCloud sync stops; the data stays on the device and in iCloud, and sync resumes with Pro.
+- Sync stops; the data stays on the device and in iCloud or Google Drive, and sync resumes with Pro.
 - Detailed Insights return to a blurred preview; widgets show a locked state; calendar events already added stay but stop updating; the service history PDF goes back to its locked page (PDFs already shared or saved stay the person's files).
 
 ## Privacy
 
 - No account, no sign-in, no ads, no analytics or tracking in the app.
-- The developer collects no data. The App Store privacy label is "Data Not Collected".
+- The developer collects no data. The App Store privacy label is "Data Not Collected"; Google Play's Data safety says "No data collected".
 - Receipts and the odometer are read on the device; no image or text is sent anywhere.
-- Records stay on the device. With Pro, they sync through the person's own iCloud account, which the developer cannot read.
-- Purchases are processed by Apple; the app keeps only the purchase entitlement on the device.
+- Records stay on the device. With Pro, they sync through the person's own iCloud account on Apple devices, or a hidden folder in the person's own Google Drive on Android (the drive.appdata scope only); the developer cannot read either.
+- Purchases are processed by Apple or Google Play; the app keeps only the purchase entitlement on the device.
 - Full policy: https://carstamp.app/privacy/
 
 ## Pages
@@ -117,6 +117,8 @@ Nothing is deleted, on the device or in iCloud.
 - https://carstamp.app/support/ : support (English)
 - https://carstamp.app/bg/ : home (Bulgarian)
 - https://carstamp.app/bg/privacy/ : privacy policy (Bulgarian)
+- https://carstamp.app/android/ : CarStamp for Android (English); https://carstamp.app/bg/android/ (Bulgarian)
+- https://carstamp.app/privacy/android/ : privacy policy of CarStamp for Android (English); https://carstamp.app/bg/privacy/android/ (Bulgarian)
 - https://carstamp.app/bg/support/ : support (Bulgarian)
 - https://carstamp.app/blog/ : blog (English); https://carstamp.app/bg/blog/ : blog (Bulgarian)
 - https://carstamp.app/blog/best-car-maintenance-apps-iphone/ : eight iPhone car maintenance and fuel log apps compared

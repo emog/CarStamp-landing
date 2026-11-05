@@ -4,7 +4,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://carstamp.app/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/"/>
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://carstamp.app/bg/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/"/>
@@ -47,36 +47,64 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/privacy/"/>
   </url>
   <url>
+    <loc>https://carstamp.app/privacy/android/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/privacy/android/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/privacy/android/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/privacy/android/"/>
+  </url>
+  <url>
+    <loc>https://carstamp.app/bg/privacy/android/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/privacy/android/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/privacy/android/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/privacy/android/"/>
+  </url>
+  <url>
+    <loc>https://carstamp.app/android/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/android/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/android/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/android/"/>
+  </url>
+  <url>
+    <loc>https://carstamp.app/bg/android/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/android/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/android/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/android/"/>
+  </url>
+  <url>
     <loc>https://carstamp.app/support/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/support/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/support/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/support/"/>
   </url>
   <url>
     <loc>https://carstamp.app/bg/support/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/support/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/support/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/support/"/>
   </url>
   <url>
     <loc>https://carstamp.app/blog/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/blog/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/blog/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/blog/"/>
   </url>
   <url>
     <loc>https://carstamp.app/bg/blog/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/blog/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/blog/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/blog/"/>
   </url>
   <url>
     <loc>https://carstamp.app/press/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/press/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/press/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/press/"/>
@@ -91,7 +119,7 @@
   </url>
   <url>
     <loc>https://carstamp.app/bg/press/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/press/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/press/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/press/"/>
@@ -120,14 +148,14 @@
   </url>
   <url>
     <loc>https://carstamp.app/blog/best-car-maintenance-apps-iphone/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/blog/best-car-maintenance-apps-iphone/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/blog/best-car-maintenance-apps-iphone/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/blog/best-car-maintenance-apps-iphone/"/>
   </url>
   <url>
     <loc>https://carstamp.app/bg/blog/best-car-maintenance-apps-iphone/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/blog/best-car-maintenance-apps-iphone/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/blog/best-car-maintenance-apps-iphone/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/blog/best-car-maintenance-apps-iphone/"/>

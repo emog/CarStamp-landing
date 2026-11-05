@@ -1,20 +1,21 @@
 # CarStamp
 
-> CarStamp is an Apple-native app for tracking a car's expenses, fuel and charging, maintenance and renewals, for iPhone, iPad, Mac and Apple Vision Pro. It is free for one car, with an optional CarStamp Pro (subscription or one-time lifetime purchase). No ads, no account, and no data collected. Available on the App Store: https://apps.apple.com/app/id6820775330.
+> CarStamp is an Apple-native app for tracking a car's expenses, fuel and charging, maintenance and renewals, for iPhone, iPad, Mac and Apple Vision Pro, coming soon to Android phones and tablets (Android 8 or later) on Google Play. It is free for one car, with an optional CarStamp Pro (subscription or one-time lifetime purchase). No ads, no account, and no data collected by the developer. On the App Store: https://apps.apple.com/app/id6820775330.
 
 Key facts:
 
 - Name: CarStamp (always one word, capital C and S).
 - Developer: Emil Georgiev, an individual developer.
-- Platforms: iPhone (iOS), iPad (iPadOS), Mac (macOS) and Apple Vision Pro (visionOS).
+- Platforms: iPhone (iOS), iPad (iPadOS), Mac (macOS) and Apple Vision Pro (visionOS); Android phones and tablets coming soon (Android 8 or later, Google Play).
 - Languages: English and Bulgarian.
 - Vehicles: cars, and motorcycles and vans too.
-- Not available: there is no Android, Windows or web version.
+- Android: CarStamp for Android is coming soon to Google Play, with the same Pro plans; Pro is bought separately in each store, and one backup file moves data between iPhone and Android. With Pro, Android devices sync through the person's own Google Drive.
+- Not available: there is no Windows or web version.
 - Units: kilometers or miles, liters, US or imperial gallons, kWh; any currency.
 - Works in any country: renewal suggestions (insurance, inspection, registration, road tax, vignette) for 30 countries, including the U.S., the U.K., Canada and Australia, and a general set elsewhere.
-- Availability: on the App Store worldwide: https://apps.apple.com/app/id6820775330
-- Price: free for one active car, for good. CarStamp Pro is optional, by monthly or yearly subscription or a one-time lifetime purchase; the yearly plan has a 14-day free trial for new subscribers; prices vary by country and are shown in the App Store.
-- Privacy: no ads, no account, no tracking, no data collected by the developer. Data stays on the person's devices; with Pro it syncs through the person's own iCloud.
+- Availability: on the App Store worldwide: https://apps.apple.com/app/id6820775330. CarStamp for Android: coming soon to Google Play
+- Price: free for one active car, for good. CarStamp Pro is optional, by monthly or yearly subscription or a one-time lifetime purchase; the yearly plan has a 14-day free trial for new subscribers; prices vary by country and are shown in the App Store or Google Play. Pro is bought in the store of the device: an App Store purchase covers the Apple devices, a Google Play purchase the Android devices.
+- Privacy: no ads, no account, no tracking, no data collected by the developer. Data stays on the person's devices; with Pro it syncs through the person's own iCloud on Apple devices, or the person's own Google Drive on Android. Purchases go through Apple or Google Play.
 
 ## Free, for good
 
@@ -22,7 +23,7 @@ Key facts:
 - Recurring costs (insurance, a lease, parking) added on their day; several fuels per car, for example gasoline and LPG (gasoline, diesel, LPG, CNG, hydrogen, electric, plug-in hybrid), and any currency.
 - Maintenance plans, renewals (liability insurance, comprehensive insurance such as Bulgarian Kasko, MOT or technical inspection, vignette, road tax), reminders and alerts. In Bulgarian: Гражданска отговорност, Каско, ГТП, винетка, данък МПС.
 - Documents: any number, each with name, type, expiry date and reminders. Pages (photos or scans) for one document, up to 2 pages.
-- Logging from quick actions on the app icon (and the Mac Dock); scanning the odometer with the camera on iPhone and iPad; import from Fuelio, Drivvo, Fuelly, aCar, Road Trip and CSV.
+- Logging from quick actions on the app icon (and the Dock on Mac); scanning the odometer with the camera on iPhone, iPad and Android; import from Fuelio, Drivvo, Fuelly, aCar, Road Trip and CSV.
 - Overview, history with search, basic Insights (spending for this year and last, cost per km, average fuel use).
 - Backup and restore (the backup holds everything), CSV export of every record (with invoices, part brands, where each part was bought and work done by the owner), and Hand Over to New Owner (the car's history as a file).
 - Receipt reading allowance: 10 reads.
@@ -30,12 +31,12 @@ Key facts:
 ## CarStamp Pro adds
 
 - More than one active car, and new records on a sold car.
-- iCloud sync between iPhone, iPad, Mac and Vision Pro.
+- Sync: iCloud between iPhone, iPad, Mac and Vision Pro (Apple devices); Google Drive between Android phones and tablets.
 - Detailed Insights (fuel detail, driving pace, ownership and depreciation, forecast, compare vehicles, the change against an earlier period).
 - Unlimited receipt reading; photos and files on records; pages (photos or scans) for every document (free: the photo of a scan during the first 10 free reads and one document with up to 2 pages).
 - Service history PDF to share, save or print, with the owner's name, all time or a chosen period, and the included records' receipts and invoices added at the end (Pro only; nothing of it can be read without Pro).
-- Siri, Shortcuts and Control Center; renewals paid in parts with a reminder for each payment; Insights for every period (earlier years, everything, custom dates).
-- Home Screen and Lock Screen widgets, part history, workshop history, tire sets, calendar sync, alternate app icons.
+- Siri, Shortcuts and Control Center (Apple devices); on Android, shortcuts and Quick Settings tiles; renewals paid in parts with a reminder for each payment; Insights for every period (earlier years, everything, custom dates).
+- Home Screen widgets (and Lock Screen widgets on Apple devices), part history, workshop history, tire sets, calendar sync, alternate app icons.
 - If Pro ends, nothing is deleted: every car, record and alert keeps working and stays exportable.
 
 ## Pages
@@ -45,8 +46,12 @@ Key facts:
 - [Support](https://carstamp.app/support/): help, contact and common questions
 - [CarStamp на български](https://carstamp.app/bg/): the home page in Bulgarian
 - [Поверителност](https://carstamp.app/bg/privacy/): the privacy policy in Bulgarian
+- [CarStamp for Android](https://carstamp.app/android/): CarStamp on Android phones and tablets, coming soon to Google Play
+- [CarStamp for Android Privacy Policy](https://carstamp.app/privacy/android/): the Android app's privacy policy
+- [CarStamp за Android](https://carstamp.app/bg/android/): the Android page in Bulgarian
+- [Поверителност на CarStamp за Android](https://carstamp.app/bg/privacy/android/): the Android privacy policy in Bulgarian
 - [Помощ](https://carstamp.app/bg/support/): support (help) in Bulgarian
-- [Car maintenance and fuel log apps for iPhone compared](https://carstamp.app/blog/best-car-maintenance-apps-iphone/): eight apps compared on their free versions, iPad and Mac apps, account and App Store privacy labels
+- [Car maintenance and fuel log apps for iPhone compared](https://carstamp.app/blog/best-car-maintenance-apps-iphone/): eight apps compared on iPad and Mac apps, account and App Store privacy labels
 - [Приложения за поддръжка и разходи за автомобила](https://carstamp.app/bg/blog/best-car-maintenance-apps-iphone/): the comparison in Bulgarian
 - [aCar for iPhone](https://carstamp.app/blog/acar-for-iphone/): aCar is Android only; how to move aCar's CSV export into CarStamp on iPhone
 - [aCar за iPhone](https://carstamp.app/bg/blog/acar-for-iphone/): the aCar guide in Bulgarian
@@ -54,6 +59,7 @@ Key facts:
 - [Смяна на приложението](https://carstamp.app/bg/blog/switch-car-log-app/): the switching guide in Bulgarian
 - [Blog](https://carstamp.app/blog/): guides and app comparisons
 - [Press kit](https://carstamp.app/press/): facts, descriptions, prices, real screenshots and the app icon
+- [За медии](https://carstamp.app/bg/press/): the press kit in Bulgarian
 - [Блог](https://carstamp.app/bg/blog/): the blog in Bulgarian
 
 ## Screenshots

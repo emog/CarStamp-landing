@@ -180,7 +180,8 @@ a:hover{text-decoration-thickness:2px}
 /* ---------- sections ---------- */
 .section{padding:84px 0}
 .band{background:var(--band)}
-.band a,.band .kicker{color:var(--acc-band)}
+.band a,.band .kicker,.real .kicker{color:var(--acc-band)}
+code a{color:var(--acc-band)}
 .section h2{font-family:var(--display);font-size:clamp(30px,3.4vw,40px);line-height:1.1;letter-spacing:-.025em;font-weight:720;text-wrap:balance}
 .lede{color:var(--muted);font-size:18px;margin-top:10px;max-width:40em}
 .head{margin-bottom:32px}
@@ -254,9 +255,16 @@ a:hover{text-decoration-thickness:2px}
 .closing-card{background:radial-gradient(700px 300px at 85% 0%,#2B4489,transparent 70%),linear-gradient(160deg,#20357A,#14204B);color:#F3F1EC;border-radius:28px;padding:56px 48px;display:grid;grid-template-columns:auto 1fr auto;gap:32px;align-items:center;position:relative;overflow:hidden}
 .closing-card::after{content:"";position:absolute;width:360px;height:360px;right:-80px;top:-200px;border-radius:50%;background:radial-gradient(circle,rgba(242,163,58,.2),transparent 65%);pointer-events:none}
 .closing-card .closing-icon{width:88px;height:88px;border-radius:20px;box-shadow:0 10px 30px rgba(0,0,0,.3)}
-.closing-card h2{font-size:clamp(26px,3vw,36px)}
+.closing-card h2{font-size:clamp(26px,3vw,36px);line-height:1.12;letter-spacing:-.02em;text-wrap:balance}
 .closing-card p{color:#C9CEDD;margin-top:8px}
 .closing-card .store-badge{position:relative;z-index:1}
+/* The App Store badge with the one quiet line about Android under it (store_stack in build.py): text only, the
+   badge stays the only artwork. */
+.store-stack{display:flex;flex-direction:column;align-items:center;gap:8px;position:relative;z-index:1}
+.also-android{margin:0;font-size:14px;font-weight:400;line-height:1.4;color:var(--muted);text-align:center}
+.also-android a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+.closing-card .also-android{margin:0;color:#C9CEDD}
+.closing-card .also-android a{color:#F3F1EC}
 
 /* footer */
 .foot{border-top:1px solid var(--line);padding:40px 0 48px;font-size:14px;color:var(--muted)}
@@ -286,6 +294,8 @@ a:hover{text-decoration-thickness:2px}
 .prose p,.prose ul,.prose ol{margin:0 0 14px}
 .prose ul,.prose ol{padding-left:1.3em}
 .prose li{margin:0 0 8px;padding-left:.2em}
+.prose li a{padding-block:4px}
+.doc-other{margin-top:12px;color:var(--muted);font-size:15px}
 .prose li::marker{color:var(--acc)}
 .prose a{overflow-wrap:anywhere}
 .prose code{font:15px ui-monospace,"SF Mono",Menlo,monospace;background:var(--band);padding:1px 5px;border-radius:5px}
@@ -360,6 +370,8 @@ a:hover{text-decoration-thickness:2px}
   .closing-card{grid-template-columns:1fr;padding:36px 24px;gap:20px;border-radius:22px}
   .closing-card .closing-icon{width:72px;height:72px;border-radius:16px}
   .closing-card .store-badge{grid-column:1/-1}
+  .closing-card .store-stack{grid-column:1/-1;align-items:flex-start}
+  .closing-card .also-android{text-align:left}
   .foot-top .brand{width:100%}
   .not-found{padding:28px 20px 72px}
 }
@@ -462,6 +474,8 @@ a:hover{text-decoration-thickness:2px}
 .get-card .get-title{font-family:var(--display);font-size:19px;font-weight:700;line-height:1.25;letter-spacing:-.015em;color:var(--ink);margin:0 0 3px}
 .get-card .get-line{font-size:15.5px;line-height:1.45;color:var(--muted);margin:0}
 .get-card .store-badge{margin-left:6px}
+.get-card .store-stack{margin-left:6px}
+.get-card .store-stack .store-badge{margin-left:0}
 .prose a.store-badge{text-decoration:none;color:inherit}
 .post-list + .get-card{max-width:52em;margin:-36px 0 72px}
 @media (prefers-color-scheme:dark){.get-card{background:#141A2C}}
@@ -469,6 +483,9 @@ a:hover{text-decoration-thickness:2px}
   .get-card{grid-template-columns:auto minmax(0,1fr);padding:18px;gap:14px 16px}
   .get-card .get-icon{width:48px;height:48px;border-radius:11px;align-self:start}
   .get-card .store-badge{grid-column:1/-1;justify-self:start;margin:4px 0 0}
+  .get-card .store-stack{grid-column:1/-1;justify-self:start;align-items:flex-start;margin:4px 0 0}
+  .get-card .store-stack .store-badge{margin:0}
+  .get-card .also-android{text-align:left}
 }
 
 /* The blog index: one card per post; the whole card opens it (the title's link covers the card). */
@@ -484,3 +501,60 @@ a:hover{text-decoration-thickness:2px}
 .post-card .post-date{font-size:14px}
 .post-more{display:inline-block;margin-top:12px;font-weight:600;color:var(--acc)}
 .post-more::after{content:" \203A"}
+
+/* Google's official Play badge (play_badge in build.py): the PNGs carry clear space, different per language, so
+   each is sized to show a 50 px badge like the App Store's and pulled back so the badge's edges sit on the layout. */
+.play-badge img{display:block;width:auto}
+.play-en img{width:192px;height:74px;margin:-12px -12px -12px -12px}
+.play-bg img{width:168px;height:65px;margin:-7.5px 0}
+
+/* The Android page (/android/, android_page in build.py): built from the home page's parts (hero, devices,
+   feature cards, rows, a band, the closing card) with real Android captures only. */
+.devices.droid{height:650px}
+.droid .dev-ipad{top:34px;width:min(560px,calc(100% - 64px))}
+.droid .dev-ipad img{border-radius:16px}
+.droid .dev-phone{top:72px;width:248px;border-radius:40px}
+.droid .dev-phone img{border-radius:20px}
+.frame-android{border-radius:40px 40px 0 0}
+.frame-android img{border-radius:20px 20px 0 0}
+.feats-head{margin-bottom:26px}
+.feats ul.six{grid-template-columns:repeat(3,minmax(0,1fr))}
+.droid-tablet{max-width:960px;margin:0 auto}
+.droid-tablet figcaption{margin-top:12px;font-size:14px;color:var(--muted);text-align:center}
+.android-hero .ctas .play-badge{margin-right:2px}
+@media (max-width:1040px){
+  .devices.droid{height:650px}
+  .feats ul.six{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:600px){
+  .devices.droid{height:auto}
+  .feats ul.six{grid-template-columns:1fr}
+  .droid .dev-phone{top:auto;width:256px;border-radius:40px}
+}
+
+/* The quiet line under a store badge (store_stack, android_stack): on a wide screen it sits under the badge,
+   flush with its right edge, so the card's right side stays straight. */
+@media (min-width:601px){
+  .closing-card .store-stack,.get-card .store-stack{align-items:flex-end}
+  .closing-card .also-android,.get-card .also-android{text-align:right}
+}
+.closing-card .also-android{font-size:13px;color:rgba(201,206,221,.75);white-space:nowrap}
+.closing-card .also-android a{color:#F3F1EC;text-decoration-color:rgba(243,241,236,.4);text-decoration-thickness:1px}
+.closing-card .also-android a:hover{text-decoration-color:#F3F1EC}
+.get-card .also-android{font-size:13px;white-space:nowrap}
+@media (max-width:600px){.closing-card .also-android,.get-card .also-android{white-space:normal}}
+
+/* The Android privacy policy: a kicker over the title, the Play badge under the date, and on a phone the
+   permissions table as one block per permission. */
+.doc-kicker{margin:0 0 10px}
+.doc-hero .doc-kicker{color:var(--acc);font-size:13px;margin-top:0}
+.doc-badge{margin-top:22px}
+@media (max-width:600px){
+  .table-stack{overflow:visible;border:0;background:transparent}
+  .table-stack table,.table-stack tbody,.table-stack tr,.table-stack th,.table-stack td{display:block;min-width:0;width:auto}
+  .table-stack thead{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+  .table-stack tr{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:6px 0;margin-bottom:12px}
+  .table-stack tr>:first-child{position:static;box-shadow:none;background:transparent;font-size:17px;font-weight:650;color:var(--ink);padding:10px 16px 4px}
+  .table-stack td{border-bottom:0;padding:6px 16px}
+  .table-stack td::before{content:attr(data-label);display:block;font-size:12px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);font-weight:600;margin-bottom:2px}
+}
