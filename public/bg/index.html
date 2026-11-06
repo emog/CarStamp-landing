@@ -59,8 +59,8 @@
       "description": "Пазете зарежданията с гориво и ток, обслужването и ремонтите, разходите и сроковете на автомобила си на iPhone, iPad, Mac и Apple Vision Pro. Безплатно за един автомобил, завинаги. Без реклами, без акаунт, без събиране на данни.",
       "applicationCategory": "UtilitiesApplication",
       "applicationSubCategory": "Разходи и поддръжка на автомобил",
-      "operatingSystem": "iOS 18 или по-нова, iPadOS 18 или по-нова, macOS 15 или по-нова, visionOS 2 или по-нова",
-      "availableOnDevice": "iPhone, iPad, Mac, Apple Vision Pro",
+      "operatingSystem": "iOS 18 или по-нова, iPadOS 18 или по-нова, macOS 15 или по-нова, visionOS 2 или по-нова, Android 8.0 или по-нова",
+      "availableOnDevice": "iPhone, iPad, Mac, Apple Vision Pro, телефони и таблети с Android",
       "inLanguage": [
         "bg",
         "en"
@@ -85,20 +85,39 @@
         "„Предаване на новия собственик“: историята на автомобила като файл за следващия собственик",
         "CarStamp Pro по избор: повече автомобили, синхронизация с iCloud, подробни анализи, уиджети, прикачени файлове (извън безплатните), сервизна история в PDF за споделяне, запазване или печат, комплекти гуми и синхронизация с календара"
       ],
-      "offers": {
-        "@type": "Offer",
-        "name": "CarStamp (безплатно за един автомобил)",
-        "price": "0",
-        "priceCurrency": "USD",
-        "category": "free",
-        "description": "Безплатно за един активен автомобил, завинаги, с неограничен брой записи, напомняния, резервно копие и експорт. CarStamp Pro е покупка в приложението по избор (месечен или годишен абонамент или еднократна покупка); цените на Pro се различават според държавата и се показват в App Store.",
-        "url": "https://apps.apple.com/app/id6820775330",
-        "availability": "https://schema.org/InStock"
-      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "CarStamp в App Store (безплатно за един автомобил)",
+          "price": "0",
+          "priceCurrency": "USD",
+          "category": "free",
+          "description": "Безплатно за един активен автомобил, завинаги, с неограничен брой записи, напомняния, резервно копие и експорт. CarStamp Pro е покупка в приложението по избор (месечен или годишен абонамент или еднократна покупка); цените на Pro се различават според държавата и се показват в App Store.",
+          "url": "https://apps.apple.com/app/id6820775330",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://carstamp.app/#developer"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "CarStamp в Google Play (безплатно за един автомобил)",
+          "price": "0",
+          "priceCurrency": "USD",
+          "category": "free",
+          "description": "Безплатно за един активен автомобил, завинаги. CarStamp Pro е по избор, като покупка в приложението чрез Google Play.",
+          "url": "https://play.google.com/store/apps/details?id=net.egeorgiev.carstamp",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://carstamp.app/#developer"
+          }
+        }
+      ],
       "downloadUrl": "https://apps.apple.com/app/id6820775330",
       "installUrl": "https://apps.apple.com/app/id6820775330",
       "sameAs": [
         "https://apps.apple.com/app/id6820775330",
+        "https://play.google.com/store/apps/details?id=net.egeorgiev.carstamp",
         "https://x.com/carstampapp",
         "https://www.instagram.com/carstampapp/",
         "https://www.youtube.com/@carstampapp",
@@ -187,7 +206,7 @@
           "name": "На кои устройства работи CarStamp?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "CarStamp работи на iPhone и iPad с iOS и iPadOS 18 или по-нова версия, на Mac с macOS 15 или по-нова и на Apple Vision Pro с visionOS 2 или по-нова. Без Pro всяко устройство пази своите данни. С Pro данните ви се синхронизират през вашия собствен iCloud. Скоро CarStamp ще бъде и за телефони и таблети с Android 8 или по-нова версия, в Google Play, където Pro ще се синхронизира през вашия собствен Google Drive."
+            "text": "CarStamp работи на iPhone и iPad с iOS и iPadOS 18 или по-нова версия, на Mac с macOS 15 или по-нова и на Apple Vision Pro с visionOS 2 или по-нова. Без Pro всяко устройство пази своите данни. С Pro данните ви се синхронизират през вашия собствен iCloud. CarStamp има и за телефони и таблети с Android 8 или по-нова версия, в Google Play, където Pro се синхронизира през вашия собствен Google Drive."
           }
         },
         {
@@ -195,7 +214,7 @@
           "name": "Има ли CarStamp за Android?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Скоро ще бъде в Google Play, със същите планове и цени на Pro. Pro се купува в магазина, който използвате, затова покупка от App Store не важи в Google Play и обратно. Записите се пренасят между iPhone и Android с един файл: направете резервно копие на едното устройство и го възстановете на другото."
+            "text": "Да, в Google Play, със същите планове и цени на Pro. Pro се купува в магазина, който използвате, затова покупка от App Store не важи в Google Play и обратно. Записите се пренасят между iPhone и Android с един файл: направете резервно копие на едното устройство и го възстановете на другото."
           }
         },
         {
@@ -304,7 +323,7 @@
   <div class="wrap">
     <div class="faq-grid">
       <div><div class="head"><h2 id="faq-title">Често задавани въпроси</h2></div>
-        <div class="faq"><details><summary><h3>Кое е <span class="nowrap">най-доброто</span> приложение за поддръжка на автомобила за iPhone?</h3></summary><p>Зависи какво искате да пазите. CarStamp събира на едно място зарежданията с гориво и ток, обслужването и ремонтите с всяка част и труд, разходите и сроковете като гражданска отговорност, ГТП и винетка, със собствени приложения за iPhone, iPad, Mac и Apple Vision Pro, без акаунт, без реклами и без събиране на данни, и е безплатно за един автомобил. Блогът на CarStamp сравнява осем приложения за iPhone за поддръжка и разходи за автомобила.</p></details><details><summary><h3>Какво е CarStamp?</h3></summary><p>CarStamp е приложение за iPhone, iPad, Mac и Apple Vision Pro, в което пазите цялата история на автомобила си: зареждания с гориво и ток, сервиз и части, разходи, километраж, обслужване и срокове като гражданска отговорност, каско, ГТП, винетка и данък МПС, с напомняне преди всеки срок. Подходящо е и за мотоциклети и бусове.</p></details><details><summary><h3>Безплатно ли е CarStamp?</h3></summary><p>Да. CarStamp е безплатно за един автомобил, завинаги, с неограничен брой записи, всички напомняния, основни анализи, резервно копие, експорт в CSV и „Предаване на новия собственик“. CarStamp Pro е по избор и се предлага като месечен или годишен абонамент или като еднократна покупка. Цените се различават според държавата и се показват в App Store.</p></details><details><summary><h3>На кои устройства работи CarStamp?</h3></summary><p>CarStamp работи на iPhone и iPad с iOS и iPadOS 18 или <span class="nowrap">по-нова</span> версия, на Mac с macOS 15 или <span class="nowrap">по-нова</span> и на Apple Vision Pro с visionOS 2 или <span class="nowrap">по-нова</span>. Без Pro всяко устройство пази своите данни. С Pro данните ви се синхронизират през вашия собствен iCloud. Скоро CarStamp ще бъде и за телефони и таблети с Android 8 или <span class="nowrap">по-нова</span> версия, в Google Play, където Pro ще се синхронизира през вашия собствен Google Drive.</p></details><details id="android"><summary><h3>Има ли CarStamp за Android?</h3></summary><p>Скоро ще бъде в Google Play, със същите планове и цени на Pro. Pro се купува в магазина, който използвате, затова покупка от App Store не важи в Google Play и обратно. Записите се пренасят между iPhone и Android с един файл: направете резервно копие на едното устройство и го възстановете на другото.</p><p><a class="link-arrow" href="/bg/android/">CarStamp за Android</a></p></details><details><summary><h3>Работи ли CarStamp в моята държава?</h3></summary><p>Да. CarStamp работи във всяка държава: разстояния в километри или мили, гориво в литри или галони, разход в л/100 км или mpg и всяка валута. Когато добавите автомобил, CarStamp предлага обичайните срокове (застраховка, преглед, регистрация, данък или винетка) за 30 държави, сред които България, и общ набор навсякъде другаде. Можете да добавите и свои.</p></details><details><summary><h3>Събира ли CarStamp данни и нужен ли е акаунт?</h3></summary><p>Не. CarStamp не изисква акаунт, не показва реклами и не събира данни. Записите ви остават на вашите устройства, а с Pro се синхронизират през вашия собствен акаунт в iCloud или, на Android, през вашия собствен Google Drive. В App Store приложението е обозначено с „Не се събират данни“, а в раздела за безопасност на данните в Google Play пише, че не се събират данни.</p></details><details><summary><h3>Мога ли да прехвърля данните си от Fuelio, Drivvo, Fuelly, aCar или Road Trip?</h3></summary><p>Да. CarStamp импортира файловете, експортирани от Fuelio, Drivvo, Fuelly, aCar и Road Trip, без да е нужно да съпоставяте колони, както и всеки CSV файл. Импортирането е безплатно.</p></details></div>
+        <div class="faq"><details><summary><h3>Кое е <span class="nowrap">най-доброто</span> приложение за поддръжка на автомобила за iPhone?</h3></summary><p>Зависи какво искате да пазите. CarStamp събира на едно място зарежданията с гориво и ток, обслужването и ремонтите с всяка част и труд, разходите и сроковете като гражданска отговорност, ГТП и винетка, със собствени приложения за iPhone, iPad, Mac и Apple Vision Pro, без акаунт, без реклами и без събиране на данни, и е безплатно за един автомобил. Блогът на CarStamp сравнява осем приложения за iPhone за поддръжка и разходи за автомобила.</p></details><details><summary><h3>Какво е CarStamp?</h3></summary><p>CarStamp е приложение за iPhone, iPad, Mac и Apple Vision Pro, в което пазите цялата история на автомобила си: зареждания с гориво и ток, сервиз и части, разходи, километраж, обслужване и срокове като гражданска отговорност, каско, ГТП, винетка и данък МПС, с напомняне преди всеки срок. Подходящо е и за мотоциклети и бусове.</p></details><details><summary><h3>Безплатно ли е CarStamp?</h3></summary><p>Да. CarStamp е безплатно за един автомобил, завинаги, с неограничен брой записи, всички напомняния, основни анализи, резервно копие, експорт в CSV и „Предаване на новия собственик“. CarStamp Pro е по избор и се предлага като месечен или годишен абонамент или като еднократна покупка. Цените се различават според държавата и се показват в App Store.</p></details><details><summary><h3>На кои устройства работи CarStamp?</h3></summary><p>CarStamp работи на iPhone и iPad с iOS и iPadOS 18 или <span class="nowrap">по-нова</span> версия, на Mac с macOS 15 или <span class="nowrap">по-нова</span> и на Apple Vision Pro с visionOS 2 или <span class="nowrap">по-нова</span>. Без Pro всяко устройство пази своите данни. С Pro данните ви се синхронизират през вашия собствен iCloud. CarStamp има и за телефони и таблети с Android 8 или <span class="nowrap">по-нова</span> версия, в Google Play, където Pro се синхронизира през вашия собствен Google Drive.</p></details><details id="android"><summary><h3>Има ли CarStamp за Android?</h3></summary><p>Да, в Google Play, със същите планове и цени на Pro. Pro се купува в магазина, който използвате, затова покупка от App Store не важи в Google Play и обратно. Записите се пренасят между iPhone и Android с един файл: направете резервно копие на едното устройство и го възстановете на другото.</p><p><a class="link-arrow" href="/bg/android/">CarStamp за Android</a></p></details><details><summary><h3>Работи ли CarStamp в моята държава?</h3></summary><p>Да. CarStamp работи във всяка държава: разстояния в километри или мили, гориво в литри или галони, разход в л/100 км или mpg и всяка валута. Когато добавите автомобил, CarStamp предлага обичайните срокове (застраховка, преглед, регистрация, данък или винетка) за 30 държави, сред които България, и общ набор навсякъде другаде. Можете да добавите и свои.</p></details><details><summary><h3>Събира ли CarStamp данни и нужен ли е акаунт?</h3></summary><p>Не. CarStamp не изисква акаунт, не показва реклами и не събира данни. Записите ви остават на вашите устройства, а с Pro се синхронизират през вашия собствен акаунт в iCloud или, на Android, през вашия собствен Google Drive. В App Store приложението е обозначено с „Не се събират данни“, а в раздела за безопасност на данните в Google Play пише, че не се събират данни.</p></details><details><summary><h3>Мога ли да прехвърля данните си от Fuelio, Drivvo, Fuelly, aCar или Road Trip?</h3></summary><p>Да. CarStamp импортира файловете, експортирани от Fuelio, Drivvo, Fuelly, aCar и Road Trip, без да е нужно да съпоставяте колони, както и всеки CSV файл. Импортирането е безплатно.</p></details></div>
         <p class="faq-more">Още отговори, например за резервното копие и възстановяването на покупки, ще намерите на страницата <a href="/bg/support/">„Помощ“</a>. Избирате приложение? Вижте <a href="/bg/blog/best-car-maintenance-apps-iphone/">сравнението на 8 приложения за автомобила за iPhone</a>.</p></div>
       <div class="glance"><table class="facts"><caption>CarStamp накратко</caption><tbody><tr><th scope="row">Устройства</th><td>iPhone, iPad, Mac, Apple Vision Pro</td></tr><tr><th scope="row">Изисква</th><td>iOS и iPadOS 18, macOS 15, visionOS 2 или <span class="nowrap">по-нова</span> версия</td></tr><tr><th scope="row">Цена</th><td>Безплатно за един автомобил, завинаги</td></tr><tr><th scope="row">CarStamp Pro</th><td>По избор: месечен или годишен абонамент или еднократна покупка; цената за вашата държава е в App Store</td></tr><tr><th scope="row">Синхронизация</th><td>През вашия iCloud, с Pro</td></tr><tr><th scope="row">Импортиране от</th><td>Fuelio, Drivvo, Fuelly, aCar, Road Trip, CSV</td></tr><tr><th scope="row">Акаунт</th><td>Няма</td></tr><tr><th scope="row">Събиране на данни</th><td>Няма</td></tr><tr><th scope="row">Работи в</th><td>Всяка държава, с километри или мили и всяка валута</td></tr><tr><th scope="row">Езици</th><td>Английски, български</td></tr></tbody></table></div>
     </div>
@@ -315,7 +334,7 @@
     <div class="closing-card">
       <img class="closing-icon" src="/apple-touch-icon.png?v=seal" width="88" height="88" alt="" loading="lazy">
       <div><h2 id="closing-title">CarStamp е в App Store.</h2><p>За iPhone, iPad, Mac и Apple Vision Pro. Безплатно за един автомобил.</p></div>
-      <div class="store-stack"><a class="store-badge" href="https://apps.apple.com/app/id6820775330?pt=122175632&amp;ct=website&amp;mt=8" rel="noopener"><img src="/assets/appstore-badge-bg.svg" width="150" height="50" alt="Изтеглете от App Store"></a><p class="also-android">Скоро и за Android</p></div>
+      <div class="store-stack"><a class="store-badge" href="https://apps.apple.com/app/id6820775330?pt=122175632&amp;ct=website&amp;mt=8" rel="noopener"><img src="/assets/appstore-badge-bg.svg" width="150" height="50" alt="Изтеглете от App Store"></a><p class="also-android">Има и за Android: <a href="https://play.google.com/store/apps/details?id=net.egeorgiev.carstamp&amp;hl=bg" rel="noopener">Google Play</a></p></div>
     </div>
   </div>
 </section>

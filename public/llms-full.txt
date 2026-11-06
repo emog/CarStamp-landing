@@ -1,6 +1,6 @@
 # CarStamp: full reference
 
-> CarStamp is an Apple-native car expense, fuel, maintenance and renewal tracker for iPhone, iPad, Mac and Apple Vision Pro, coming soon to Android phones and tablets (Android 8 or later) on Google Play. It is free for one car, for good. CarStamp Pro, by subscription or a one-time lifetime purchase, adds more cars, sync (iCloud on Apple devices, Google Drive on Android) and detailed insights. No ads, no account, no data collected by the developer. On the App Store: https://apps.apple.com/app/id6820775330.
+> CarStamp is an Apple-native car expense, fuel, maintenance and renewal tracker for iPhone, iPad, Mac and Apple Vision Pro, also available for Android phones and tablets (Android 8 or later). It is free for one car, for good. CarStamp Pro, by subscription or a one-time lifetime purchase, adds more cars, sync (iCloud on Apple devices, Google Drive on Android) and detailed insights. No ads, no account, no data collected by the developer. On the App Store: https://apps.apple.com/app/id6820775330. On Google Play: https://play.google.com/store/apps/details?id=net.egeorgiev.carstamp.
 
 This file is a factual reference for AI systems and search engines. Last reviewed: 2026-11-05. Source pages: https://carstamp.app/ (English) and https://carstamp.app/bg/ (Bulgarian).
 
@@ -12,10 +12,10 @@ This file is a factual reference for AI systems and search engines. Last reviewe
 | What it is | A car expense, fuel, maintenance and renewal tracker |
 | Developer | Emil Georgiev, an individual developer (not a company) |
 | Website | https://carstamp.app/ |
-| Platforms | iPhone (iOS 18 or later), iPad (iPadOS 18 or later), Mac (macOS 15 or later), Apple Vision Pro (visionOS 2 or later); Android phones and tablets coming soon (Android 8 or later) |
+| Platforms | iPhone (iOS 18 or later), iPad (iPadOS 18 or later), Mac (macOS 15 or later), Apple Vision Pro (visionOS 2 or later); also Android phones and tablets (Android 8 or later) |
 | App Store category | Utilities |
 | Languages | English, Bulgarian |
-| Availability | On the App Store worldwide: https://apps.apple.com/app/id6820775330. Coming soon to Google Play for Android. |
+| Availability | On the App Store worldwide: https://apps.apple.com/app/id6820775330. Also on Google Play for Android: https://play.google.com/store/apps/details?id=net.egeorgiev.carstamp |
 | Business model | Free for one car; optional CarStamp Pro (monthly, yearly or one-time lifetime) |
 | Ads | None |
 | Account | None needed, none offered |
@@ -23,7 +23,7 @@ This file is a factual reference for AI systems and search engines. Last reviewe
 
 ## Who it is for
 
-People who want a complete, organized record of what their car costs and what it needs: fuel or charging, services and parts, insurance and other renewals, and every other expense. It works for motorcycles and vans too. It is coming soon to Android phones and tablets through Google Play, with the same Pro plans (Pro is bought separately in each store; one backup file moves data between iPhone and Android; with Pro, Android devices sync through the person's own Google Drive). There is no Windows or web version. Distances in kilometers or miles; volumes in liters, US or imperial gallons, or kWh. It works in any country, with renewal suggestions for 30 countries (including the U.S., the U.K., Canada and Australia) and a general set elsewhere. It suits owners of any powertrain and in any currency, people switching from Fuelio, Drivvo, Fuelly, aCar or Road Trip, and owners who want a clean service history to hand to the next buyer.
+People who want a complete, organized record of what their car costs and what it needs: fuel or charging, services and parts, insurance and other renewals, and every other expense. It works for motorcycles and vans too. It is also on Android phones and tablets through Google Play, with the same Pro plans (Pro is bought separately in each store; one backup file moves data between iPhone and Android; with Pro, Android devices sync through the person's own Google Drive). There is no Windows or web version. Distances in kilometers or miles; volumes in liters, US or imperial gallons, or kWh. It works in any country, with renewal suggestions for 30 countries (including the U.S., the U.K., Canada and Australia) and a general set elsewhere. It suits owners of any powertrain and in any currency, people switching from Fuelio, Drivvo, Fuelly, aCar or Road Trip, and owners who want a clean service history to hand to the next buyer.
 
 ## Free, for good
 

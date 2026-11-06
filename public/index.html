@@ -40,7 +40,7 @@
       "@id": "https://carstamp.app/#website",
       "url": "https://carstamp.app/",
       "name": "CarStamp",
-      "description": "CarStamp is an Apple-native car expense, fuel, maintenance and renewal tracker for iPhone, iPad, Mac and Apple Vision Pro, coming soon to Android phones and tablets.",
+      "description": "CarStamp is an Apple-native car expense, fuel, maintenance and renewal tracker for iPhone, iPad, Mac and Apple Vision Pro, also available for Android phones and tablets.",
       "inLanguage": [
         "en",
         "bg"
@@ -80,8 +80,8 @@
       "description": "Track your car's fuel and charging, services, expenses, maintenance and renewals on iPhone, iPad, Mac and Apple Vision Pro. Free for one car, for good. No ads, no account, no data collected.",
       "applicationCategory": "UtilitiesApplication",
       "applicationSubCategory": "Car expense and maintenance tracker",
-      "operatingSystem": "iOS 18 or later, iPadOS 18 or later, macOS 15 or later, visionOS 2 or later",
-      "availableOnDevice": "iPhone, iPad, Mac, Apple Vision Pro",
+      "operatingSystem": "iOS 18 or later, iPadOS 18 or later, macOS 15 or later, visionOS 2 or later, Android 8.0 or later",
+      "availableOnDevice": "iPhone, iPad, Mac, Apple Vision Pro, Android phones and tablets",
       "inLanguage": [
         "en",
         "bg"
@@ -106,20 +106,39 @@
         "Hand Over to New Owner: the car's history as a file for the next owner",
         "Optional CarStamp Pro: more cars, iCloud sync, detailed insights, widgets, attachments (beyond the free allowances), the service history PDF to share, save or print, tire sets and calendar sync"
       ],
-      "offers": {
-        "@type": "Offer",
-        "name": "CarStamp (free for one car)",
-        "price": "0",
-        "priceCurrency": "USD",
-        "category": "free",
-        "description": "Free for one active car, for good, with unlimited records, reminders, backup and export. CarStamp Pro is an optional in-app purchase (monthly or yearly subscription, or a one-time lifetime purchase); Pro prices vary by country and are shown in the App Store.",
-        "url": "https://apps.apple.com/app/id6820775330",
-        "availability": "https://schema.org/InStock"
-      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "CarStamp on the App Store (free for one car)",
+          "price": "0",
+          "priceCurrency": "USD",
+          "category": "free",
+          "description": "Free for one active car, for good, with unlimited records, reminders, backup and export. CarStamp Pro is an optional in-app purchase (monthly or yearly subscription, or a one-time lifetime purchase); Pro prices vary by country and are shown in the App Store.",
+          "url": "https://apps.apple.com/app/id6820775330",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://carstamp.app/#developer"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "CarStamp on Google Play (free for one car)",
+          "price": "0",
+          "priceCurrency": "USD",
+          "category": "free",
+          "description": "Free for one active car, for good. CarStamp Pro is an optional in-app purchase through Google Play.",
+          "url": "https://play.google.com/store/apps/details?id=net.egeorgiev.carstamp",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@id": "https://carstamp.app/#developer"
+          }
+        }
+      ],
       "downloadUrl": "https://apps.apple.com/app/id6820775330",
       "installUrl": "https://apps.apple.com/app/id6820775330",
       "sameAs": [
         "https://apps.apple.com/app/id6820775330",
+        "https://play.google.com/store/apps/details?id=net.egeorgiev.carstamp",
         "https://x.com/carstampapp",
         "https://www.instagram.com/carstampapp/",
         "https://www.youtube.com/@carstampapp",
@@ -208,7 +227,7 @@
           "name": "Which devices does CarStamp run on?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "CarStamp runs on iPhone and iPad with iOS and iPadOS 18 or later, on Mac with macOS 15 or later, and on Apple Vision Pro with visionOS 2 or later. Without Pro each device keeps its own data; with Pro your data syncs through your own iCloud. CarStamp is coming soon to Android phones and tablets with Android 8 or later, through Google Play, where Pro will sync through your own Google Drive."
+            "text": "CarStamp runs on iPhone and iPad with iOS and iPadOS 18 or later, on Mac with macOS 15 or later, and on Apple Vision Pro with visionOS 2 or later. Without Pro each device keeps its own data; with Pro your data syncs through your own iCloud. CarStamp is also on Android phones and tablets with Android 8 or later, through Google Play, where Pro syncs through your own Google Drive."
           }
         },
         {
@@ -216,7 +235,7 @@
           "name": "Is CarStamp on Android?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Coming soon to Google Play, with the same Pro plans and prices. Pro is bought in the store you use, so a purchase on the App Store doesn't carry over to Google Play, or the other way. Your records move between iPhone and Android with one backup file: back up on one, restore on the other."
+            "text": "Yes, on Google Play, with the same Pro plans and prices. Pro is bought in the store you use, so a purchase on the App Store doesn't carry over to Google Play, or the other way. Your records move between iPhone and Android with one backup file: back up on one, restore on the other."
           }
         },
         {
@@ -325,7 +344,7 @@
   <div class="wrap">
     <div class="faq-grid">
       <div><div class="head"><h2 id="faq-title">Questions</h2></div>
-        <div class="faq"><details><summary><h3>What is the best car maintenance app for iPhone?</h3></summary><p>It depends on what you want the app to keep. CarStamp keeps fuel and charging, services line by line, expenses and renewals such as insurance, inspection and registration in one app, with its own apps for iPhone, iPad, Mac and Apple Vision Pro, no account, no ads and no data collected, and it is free for one car. The CarStamp blog compares eight car maintenance and fuel log apps for iPhone side by side.</p></details><details><summary><h3>What is CarStamp?</h3></summary><p>CarStamp is an app for iPhone, iPad, Mac and Apple Vision Pro that keeps a complete record of your car: fuel and charging, services and parts, expenses, mileage, maintenance and renewals such as insurance, technical inspection, vignette and road tax, with reminders before each one is due. It works for motorcycles and vans too.</p></details><details><summary><h3>Is CarStamp free?</h3></summary><p>Yes. CarStamp is free for one car, for good, with unlimited records, every reminder, basic insights, backup, CSV export and Hand Over to New Owner. CarStamp Pro is optional and is sold as a monthly or yearly subscription or a <span class="nowrap">one-time</span> lifetime purchase. Prices vary by country and are shown in the App Store.</p></details><details><summary><h3>Which devices does CarStamp run on?</h3></summary><p>CarStamp runs on iPhone and iPad with iOS and iPadOS 18 or later, on Mac with macOS 15 or later, and on Apple Vision Pro with visionOS 2 or later. Without Pro each device keeps its own data; with Pro your data syncs through your own iCloud. CarStamp is coming soon to Android phones and tablets with Android 8 or later, through Google Play, where Pro will sync through your own Google Drive.</p></details><details id="android"><summary><h3>Is CarStamp on Android?</h3></summary><p>Coming soon to Google Play, with the same Pro plans and prices. Pro is bought in the store you use, so a purchase on the App Store doesn&#x27;t carry over to Google Play, or the other way. Your records move between iPhone and Android with one backup file: back up on one, restore on the other.</p><p><a class="link-arrow" href="/android/">CarStamp for Android</a></p></details><details><summary><h3>Does CarStamp work in my country?</h3></summary><p>Yes. CarStamp works in any country: distances in miles or kilometers, fuel in gallons or liters, fuel use in mpg or L/100 km, and any currency. When you add a car, it suggests the usual renewals (insurance, inspection, registration, road tax or a vignette) for 30 countries, including the U.S., the U.K., Canada and Australia, and a general set everywhere else. You can add your own too.</p></details><details><summary><h3>Does CarStamp collect my data or need an account?</h3></summary><p>No. CarStamp needs no account, shows no ads and collects no data. Your records stay on your devices, and with Pro they sync through your own iCloud account, or your own Google Drive on Android. The App Store privacy label is Data Not Collected, and Google Play&#x27;s Data safety says No data collected.</p></details><details><summary><h3>Can I move my data from Fuelio, Drivvo, Fuelly, aCar or Road Trip?</h3></summary><p>Yes. CarStamp imports the files Fuelio, Drivvo, Fuelly, aCar and Road Trip export, without mapping columns, and any CSV file. Importing is free.</p></details></div>
+        <div class="faq"><details><summary><h3>What is the best car maintenance app for iPhone?</h3></summary><p>It depends on what you want the app to keep. CarStamp keeps fuel and charging, services line by line, expenses and renewals such as insurance, inspection and registration in one app, with its own apps for iPhone, iPad, Mac and Apple Vision Pro, no account, no ads and no data collected, and it is free for one car. The CarStamp blog compares eight car maintenance and fuel log apps for iPhone side by side.</p></details><details><summary><h3>What is CarStamp?</h3></summary><p>CarStamp is an app for iPhone, iPad, Mac and Apple Vision Pro that keeps a complete record of your car: fuel and charging, services and parts, expenses, mileage, maintenance and renewals such as insurance, technical inspection, vignette and road tax, with reminders before each one is due. It works for motorcycles and vans too.</p></details><details><summary><h3>Is CarStamp free?</h3></summary><p>Yes. CarStamp is free for one car, for good, with unlimited records, every reminder, basic insights, backup, CSV export and Hand Over to New Owner. CarStamp Pro is optional and is sold as a monthly or yearly subscription or a <span class="nowrap">one-time</span> lifetime purchase. Prices vary by country and are shown in the App Store.</p></details><details><summary><h3>Which devices does CarStamp run on?</h3></summary><p>CarStamp runs on iPhone and iPad with iOS and iPadOS 18 or later, on Mac with macOS 15 or later, and on Apple Vision Pro with visionOS 2 or later. Without Pro each device keeps its own data; with Pro your data syncs through your own iCloud. CarStamp is also on Android phones and tablets with Android 8 or later, through Google Play, where Pro syncs through your own Google Drive.</p></details><details id="android"><summary><h3>Is CarStamp on Android?</h3></summary><p>Yes, on Google Play, with the same Pro plans and prices. Pro is bought in the store you use, so a purchase on the App Store doesn&#x27;t carry over to Google Play, or the other way. Your records move between iPhone and Android with one backup file: back up on one, restore on the other.</p><p><a class="link-arrow" href="/android/">CarStamp for Android</a></p></details><details><summary><h3>Does CarStamp work in my country?</h3></summary><p>Yes. CarStamp works in any country: distances in miles or kilometers, fuel in gallons or liters, fuel use in mpg or L/100 km, and any currency. When you add a car, it suggests the usual renewals (insurance, inspection, registration, road tax or a vignette) for 30 countries, including the U.S., the U.K., Canada and Australia, and a general set everywhere else. You can add your own too.</p></details><details><summary><h3>Does CarStamp collect my data or need an account?</h3></summary><p>No. CarStamp needs no account, shows no ads and collects no data. Your records stay on your devices, and with Pro they sync through your own iCloud account, or your own Google Drive on Android. The App Store privacy label is Data Not Collected, and Google Play&#x27;s Data safety says No data collected.</p></details><details><summary><h3>Can I move my data from Fuelio, Drivvo, Fuelly, aCar or Road Trip?</h3></summary><p>Yes. CarStamp imports the files Fuelio, Drivvo, Fuelly, aCar and Road Trip export, without mapping columns, and any CSV file. Importing is free.</p></details></div>
         <p class="faq-more">More answers, from backups to restoring purchases, are on the <a href="/support/">Support page</a>. Choosing an app? See <a href="/blog/best-car-maintenance-apps-iphone/">8 car maintenance apps for iPhone compared</a>.</p></div>
       <div class="glance"><table class="facts"><caption>CarStamp at a glance</caption><tbody><tr><th scope="row">Devices</th><td>iPhone, iPad, Mac, Apple Vision Pro</td></tr><tr><th scope="row">Requires</th><td>iOS and iPadOS 18, macOS 15, visionOS 2 or later</td></tr><tr><th scope="row">Price</th><td>Free for one car, for good</td></tr><tr><th scope="row">CarStamp Pro</th><td>Optional: monthly, yearly or <span class="nowrap">one-time</span> lifetime; price set per country in the App Store</td></tr><tr><th scope="row">Sync</th><td>Through your own iCloud, with Pro</td></tr><tr><th scope="row">Import from</th><td>Fuelio, Drivvo, Fuelly, aCar, Road Trip, CSV</td></tr><tr><th scope="row">Account</th><td>None</td></tr><tr><th scope="row">Data collected</th><td>None</td></tr><tr><th scope="row">Works in</th><td>Any country, in miles or km and any currency</td></tr><tr><th scope="row">Languages</th><td>English, Bulgarian</td></tr></tbody></table></div>
     </div>
@@ -336,7 +355,7 @@
     <div class="closing-card">
       <img class="closing-icon" src="/apple-touch-icon.png?v=seal" width="88" height="88" alt="" loading="lazy">
       <div><h2 id="closing-title">CarStamp is on the App Store.</h2><p>For iPhone, iPad, Mac and Apple Vision Pro. Free for one car.</p></div>
-      <div class="store-stack"><a class="store-badge" href="https://apps.apple.com/app/id6820775330?pt=122175632&amp;ct=website&amp;mt=8" rel="noopener"><img src="/assets/appstore-badge.svg" width="150" height="50" alt="Download on the App Store"></a><p class="also-android">Coming soon to Android</p></div>
+      <div class="store-stack"><a class="store-badge" href="https://apps.apple.com/app/id6820775330?pt=122175632&amp;ct=website&amp;mt=8" rel="noopener"><img src="/assets/appstore-badge.svg" width="150" height="50" alt="Download on the App Store"></a><p class="also-android">Also on Android: <a href="https://play.google.com/store/apps/details?id=net.egeorgiev.carstamp" rel="noopener">Google Play</a></p></div>
     </div>
   </div>
 </section>

@@ -1,19 +1,19 @@
 # CarStamp
 
-> CarStamp is an Apple-native app for tracking a car's expenses, fuel and charging, maintenance and renewals, for iPhone, iPad, Mac and Apple Vision Pro, coming soon to Android phones and tablets (Android 8 or later) on Google Play. It is free for one car, with an optional CarStamp Pro (subscription or one-time lifetime purchase). No ads, no account, and no data collected by the developer. On the App Store: https://apps.apple.com/app/id6820775330.
+> CarStamp is an Apple-native app for tracking a car's expenses, fuel and charging, maintenance and renewals, for iPhone, iPad, Mac and Apple Vision Pro, also available for Android phones and tablets (Android 8 or later). It is free for one car, with an optional CarStamp Pro (subscription or one-time lifetime purchase). No ads, no account, and no data collected by the developer. On the App Store: https://apps.apple.com/app/id6820775330. On Google Play: https://play.google.com/store/apps/details?id=net.egeorgiev.carstamp.
 
 Key facts:
 
 - Name: CarStamp (always one word, capital C and S).
 - Developer: Emil Georgiev, an individual developer.
-- Platforms: iPhone (iOS), iPad (iPadOS), Mac (macOS) and Apple Vision Pro (visionOS); Android phones and tablets coming soon (Android 8 or later, Google Play).
+- Platforms: iPhone (iOS), iPad (iPadOS), Mac (macOS) and Apple Vision Pro (visionOS); also Android phones and tablets (Android 8 or later, Google Play).
 - Languages: English and Bulgarian.
 - Vehicles: cars, and motorcycles and vans too.
-- Android: CarStamp for Android is coming soon to Google Play, with the same Pro plans; Pro is bought separately in each store, and one backup file moves data between iPhone and Android. With Pro, Android devices sync through the person's own Google Drive.
+- Android: CarStamp for Android is on Google Play with the same Pro plans; Pro is bought separately in each store, and one backup file moves data between iPhone and Android. With Pro, Android devices sync through the person's own Google Drive.
 - Not available: there is no Windows or web version.
 - Units: kilometers or miles, liters, US or imperial gallons, kWh; any currency.
 - Works in any country: renewal suggestions (insurance, inspection, registration, road tax, vignette) for 30 countries, including the U.S., the U.K., Canada and Australia, and a general set elsewhere.
-- Availability: on the App Store worldwide: https://apps.apple.com/app/id6820775330. CarStamp for Android: coming soon to Google Play
+- Availability: on the App Store worldwide: https://apps.apple.com/app/id6820775330. CarStamp for Android: https://play.google.com/store/apps/details?id=net.egeorgiev.carstamp
 - Price: free for one active car, for good. CarStamp Pro is optional, by monthly or yearly subscription or a one-time lifetime purchase; the yearly plan has a 14-day free trial for new subscribers; prices vary by country and are shown in the App Store or Google Play. Pro is bought in the store of the device: an App Store purchase covers the Apple devices, a Google Play purchase the Android devices.
 - Privacy: no ads, no account, no tracking, no data collected by the developer. Data stays on the person's devices; with Pro it syncs through the person's own iCloud on Apple devices, or the person's own Google Drive on Android. Purchases go through Apple or Google Play.
 
@@ -46,7 +46,7 @@ Key facts:
 - [Support](https://carstamp.app/support/): help, contact and common questions
 - [CarStamp на български](https://carstamp.app/bg/): the home page in Bulgarian
 - [Поверителност](https://carstamp.app/bg/privacy/): the privacy policy in Bulgarian
-- [CarStamp for Android](https://carstamp.app/android/): CarStamp on Android phones and tablets, coming soon to Google Play
+- [CarStamp for Android](https://carstamp.app/android/): CarStamp on Android phones and tablets, on Google Play
 - [CarStamp for Android Privacy Policy](https://carstamp.app/privacy/android/): the Android app's privacy policy
 - [CarStamp за Android](https://carstamp.app/bg/android/): the Android page in Bulgarian
 - [Поверителност на CarStamp за Android](https://carstamp.app/bg/privacy/android/): the Android privacy policy in Bulgarian
