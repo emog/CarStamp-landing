@@ -90,14 +90,14 @@
   </url>
   <url>
     <loc>https://carstamp.app/blog/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/blog/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/blog/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/blog/"/>
   </url>
   <url>
     <loc>https://carstamp.app/bg/blog/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/blog/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/blog/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/blog/"/>
@@ -173,5 +173,19 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/blog/switch-car-log-app/"/>
     <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/blog/switch-car-log-app/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/blog/switch-car-log-app/"/>
+  </url>
+  <url>
+    <loc>https://carstamp.app/blog/winter-car-check-holidays/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/blog/winter-car-check-holidays/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/blog/winter-car-check-holidays/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/blog/winter-car-check-holidays/"/>
+  </url>
+  <url>
+    <loc>https://carstamp.app/bg/blog/winter-car-check-holidays/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carstamp.app/blog/winter-car-check-holidays/"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://carstamp.app/bg/blog/winter-car-check-holidays/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carstamp.app/blog/winter-car-check-holidays/"/>
   </url>
 </urlset>

@@ -476,16 +476,18 @@ code a{color:var(--acc-band)}
 .get-card .store-badge{margin-left:6px}
 .get-card .store-stack{margin-left:6px}
 .get-card .store-stack .store-badge{margin-left:0}
+.get-card .store-stack .also-android{margin:0}   /* inside .prose the paragraph margin left extra space below */
+.get-card + .get-card{margin-top:-20px}   /* two cards in a row (App Store, then Android) sit 16px apart */
 .prose a.store-badge{text-decoration:none;color:inherit}
 .post-list + .get-card{max-width:52em;margin:-36px 0 72px}
 @media (prefers-color-scheme:dark){.get-card{background:#141A2C}}
 @media (max-width:600px){
   .get-card{grid-template-columns:auto minmax(0,1fr);padding:18px;gap:14px 16px}
   .get-card .get-icon{width:48px;height:48px;border-radius:11px;align-self:start}
-  .get-card .store-badge{grid-column:1/-1;justify-self:start;margin:4px 0 0}
-  .get-card .store-stack{grid-column:1/-1;justify-self:start;align-items:flex-start;margin:4px 0 0}
+  .get-card .store-badge{grid-column:1/-1;justify-self:center;margin:4px 0 0}
+  .get-card .store-stack{grid-column:1/-1;justify-self:center;align-items:center;margin:4px 0 0}
   .get-card .store-stack .store-badge{margin:0}
-  .get-card .also-android{text-align:left}
+  .get-card .also-android{text-align:center}
 }
 
 /* The blog index: one card per post; the whole card opens it (the title's link covers the card). */
@@ -504,7 +506,7 @@ code a{color:var(--acc-band)}
 
 /* Google's official Play badge (play_badge in build.py): the PNGs carry clear space, different per language, so
    each is sized to show a 50 px badge like the App Store's and pulled back so the badge's edges sit on the layout. */
-.play-badge img{display:block;width:auto}
+.play-badge img{display:block;width:auto;max-width:none}   /* img{max-width:100%} squeezed it inside its link */
 .play-en img{width:192px;height:74px;margin:-12px -12px -12px -12px}
 .play-bg img{width:168px;height:65px;margin:-7.5px 0}
 

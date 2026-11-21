@@ -57,6 +57,8 @@ Key facts:
 - [aCar за iPhone](https://carstamp.app/bg/blog/acar-for-iphone/): the aCar guide in Bulgarian
 - [Switching car log apps](https://carstamp.app/blog/switch-car-log-app/): how to import from Fuelio, Drivvo, Fuelly, aCar, Road Trip or any spreadsheet (CSV), app by app
 - [Смяна на приложението](https://carstamp.app/bg/blog/switch-car-log-app/): the switching guide in Bulgarian
+- [Winter car check before holiday driving](https://carstamp.app/blog/winter-car-check-holidays/): coolant, screenwash, oil, brake fluid, diesel and AdBlue, tires, battery and renewals before a winter trip, with a checklist
+- [Зимна проверка на автомобила](https://carstamp.app/bg/blog/winter-car-check-holidays/): the winter check in Bulgarian
 - [Blog](https://carstamp.app/blog/): guides and app comparisons
 - [Press kit](https://carstamp.app/press/): facts, descriptions, prices, real screenshots and the app icon
 - [За медии](https://carstamp.app/bg/press/): the press kit in Bulgarian
