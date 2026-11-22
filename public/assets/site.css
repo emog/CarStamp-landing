@@ -70,8 +70,6 @@ a:hover{text-decoration-thickness:2px}
   transition:background-color .18s ease,transform .18s ease,box-shadow .18s ease}
 .pill:hover{background:var(--btn-hover);text-decoration:none;transform:translateY(-1px);box-shadow:0 4px 14px color-mix(in srgb,var(--btn) 35%,transparent)}
 .pill:active{transform:none;box-shadow:none}
-.brand img{transition:transform .25s ease}
-.brand:hover img{transform:rotate(-8deg)}
 .menu{display:none;position:relative}
 .menu summary{list-style:none;cursor:pointer;width:40px;height:40px;border-radius:999px;border:1px solid var(--line);display:grid;place-items:center;color:var(--ink);transition:background-color .18s ease}
 .menu summary:hover,.menu[open] summary{background:color-mix(in srgb,var(--ink) 7%,transparent)}
