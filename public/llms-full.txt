@@ -131,3 +131,9 @@ Nothing is deleted, on the device or in iCloud or Google Drive.
 - https://carstamp.app/bg/blog/switch-car-log-app/ : the switching guide (Bulgarian)
 - https://carstamp.app/blog/winter-car-check-holidays/ : winter car check before holiday driving: fluids, tires, battery and renewals, with a checklist
 - https://carstamp.app/bg/blog/winter-car-check-holidays/ : the winter check (Bulgarian)
+- https://carstamp.app/blog/dashboard-warning-lights/ : car dashboard warning lights by color: what each means, when to stop, what to do
+- https://carstamp.app/bg/blog/dashboard-warning-lights/ : the warning lights guide (Bulgarian)
+- https://carstamp.app/blog/tire-pressure-cold-weather/ : tire pressure in cold weather: how much it drops, the warning light, checking and filling in winter
+- https://carstamp.app/bg/blog/tire-pressure-cold-weather/ : the tire pressure guide (Bulgarian)
+- https://carstamp.app/blog/defrost-windshield-fast/ : how to defrost a windshield fast without cracking it, and stop inside fog
+- https://carstamp.app/bg/blog/defrost-windshield-fast/ : the defrosting guide (Bulgarian)

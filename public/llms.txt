@@ -59,6 +59,12 @@ Key facts:
 - [Смяна на приложението](https://carstamp.app/bg/blog/switch-car-log-app/): the switching guide in Bulgarian
 - [Winter car check before holiday driving](https://carstamp.app/blog/winter-car-check-holidays/): coolant, screenwash, oil, brake fluid, diesel and AdBlue, tires, battery and renewals before a winter trip, with a checklist
 - [Зимна проверка на автомобила](https://carstamp.app/bg/blog/winter-car-check-holidays/): the winter check in Bulgarian
+- [Car dashboard warning lights](https://carstamp.app/blog/dashboard-warning-lights/): what each warning light means by color, which mean stop now, which can wait for a garage
+- [Контролните лампи на таблото](https://carstamp.app/bg/blog/dashboard-warning-lights/): the warning lights guide in Bulgarian
+- [Tire pressure in cold weather](https://carstamp.app/blog/tire-pressure-cold-weather/): how much pressure drops in the cold, why the warning light comes on, how to check and fill in winter
+- [Налягане в гумите през зимата](https://carstamp.app/bg/blog/tire-pressure-cold-weather/): the tire pressure guide in Bulgarian
+- [How to defrost a windshield fast](https://carstamp.app/blog/defrost-windshield-fast/): heater and A/C settings, homemade de-icer, what never to do, stopping inside fog
+- [Как бързо да размразите предното стъкло](https://carstamp.app/bg/blog/defrost-windshield-fast/): the defrosting guide in Bulgarian
 - [Blog](https://carstamp.app/blog/): guides and app comparisons
 - [Press kit](https://carstamp.app/press/): facts, descriptions, prices, real screenshots and the app icon
 - [За медии](https://carstamp.app/bg/press/): the press kit in Bulgarian
