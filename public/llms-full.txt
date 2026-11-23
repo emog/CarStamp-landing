@@ -39,7 +39,7 @@ Your car and its records:
 Logging from anywhere:
 - Replies to mileage notifications.
 - Quick actions on the app icon (iPhone, iPad, Android) and in the Dock menu on Mac: Log Fuel or Charge, Add Expense, Update Mileage, Scan Receipt.
-- Scan Odometer (iPhone, iPad, free): a camera button beside every mileage field reads the dashboard on the device; only numbers near the car's last mileage are framed, a steady reading offers a Use button, and the screen says why when nothing can be read.
+- Scan Odometer (iPhone, iPad, Android; 10 free reads, unlimited with Pro): a camera button beside every mileage field reads the dashboard on the device; only numbers near the car's last mileage are framed, a steady reading offers a Use button, and the screen says why when nothing can be read.
 - Services record each part's brand, part number and where it was bought, and can be marked as done by the owner ("Done Myself"), shown in the service history PDF.
 - Import from Fuelio, Drivvo, Fuelly, aCar and Road Trip exports, and CSV import.
 
@@ -66,6 +66,7 @@ Everywhere:
 ## Free allowances
 
 - Receipt reading: 10 free reads. A read that fails or is canceled is given back. The count is shared across your devices. Typing a record in by hand is always free.
+- Odometer reading: 10 free reads; only a reading used in the mileage field counts (opening the scanner, canceling or a failed read doesn't). Typing the mileage is always free.
 - A free scan keeps its receipt photo on the record, on the device it was scanned on.
 - Pages (photos or scans) for one document, up to 2 pages (for example a registration's front and back), without Pro. Adding pages to a second document needs Pro.
 
@@ -78,6 +79,7 @@ Everywhere:
 | Sync | Cars and records on all your devices: through your own iCloud on Apple devices, through your own Google Drive on Android |
 | Detailed Insights | Fuel detail (each tank, price history, stations, charging places), driving pace, ownership and depreciation, forecast, compare vehicles, and the change against an earlier period (on the Insights headline and the arrows on Overview's spending and cost per km) |
 | Receipt reading | Unlimited reads |
+| Odometer reading | Unlimited reads |
 | Attachments | Photos and files on records; pages for every document |
 | Siri and Shortcuts (Apple devices) | Logging and Documents from Siri, Shortcuts, the Action button and Control Center (app icon quick actions stay free); on Android, shortcuts and Quick Settings tiles |
 | Paid in parts | Setting a renewal as paid every month, 3 or 6 months, with a reminder for each payment |

@@ -26,14 +26,14 @@ Key facts:
 - Logging from quick actions on the app icon (and the Dock on Mac); scanning the odometer with the camera on iPhone, iPad and Android; import from Fuelio, Drivvo, Fuelly, aCar, Road Trip and CSV.
 - Overview, history with search, basic Insights (spending for this year and last, cost per km, average fuel use).
 - Backup and restore (the backup holds everything), CSV export of every record (with invoices, part brands, where each part was bought and work done by the owner), and Hand Over to New Owner (the car's history as a file).
-- Receipt reading allowance: 10 reads.
+- Receipt reading allowance: 10 reads. Odometer reading allowance: 10 reads.
 
 ## CarStamp Pro adds
 
 - More than one active car, and new records on a sold car.
 - Sync: iCloud between iPhone, iPad, Mac and Vision Pro (Apple devices); Google Drive between Android phones and tablets.
 - Detailed Insights (fuel detail, driving pace, ownership and depreciation, forecast, compare vehicles, the change against an earlier period).
-- Unlimited receipt reading; photos and files on records; pages (photos or scans) for every document (free: the photo of a scan during the first 10 free reads and one document with up to 2 pages).
+- Unlimited receipt and odometer reading; photos and files on records; pages (photos or scans) for every document (free: the photo of a scan during the first 10 free reads and one document with up to 2 pages).
 - Service history PDF to share, save or print, with the owner's name, all time or a chosen period, and the included records' receipts and invoices added at the end (Pro only; nothing of it can be read without Pro).
 - Siri, Shortcuts and Control Center (Apple devices); on Android, shortcuts and Quick Settings tiles; renewals paid in parts with a reminder for each payment; Insights for every period (earlier years, everything, custom dates).
 - Home Screen widgets (and Lock Screen widgets on Apple devices), part history, workshop history, tire sets, calendar sync, alternate app icons.
